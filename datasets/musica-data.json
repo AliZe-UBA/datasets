@@ -1,0 +1,223 @@
+[
+  {
+    "id": 1,
+    "nivel_titular": {
+      "titulo_cancion": "Imagine",
+      "artista": "John Lennon",
+      "ano": 1971,
+      "foto_caratula": "https://commons.wikimedia.org/wiki/File:Imagine_John_Lennon_album_cover.jpg"
+    },
+    "cuerpo": {
+      "historia_composicion": "Compuesta por John Lennon con la coautoría ideológica de Yoko Ono, la canción nació en un contexto marcado por la Guerra de Vietnam. Inspirada en los poemas del libro 'Grapefruit' de Ono, propone la utopía de un mundo sin fronteras, religiones ni divisiones de propiedad.",
+      "movimiento_social": "Movimiento pacifista internacional contra la Guerra de Vietnam y símbolo universal de la paz mundial."
+    },
+    "extracto_destacado": {
+      "estrofa_emblematica": "You may say I'm a dreamer / But I'm not the only one / I hope someday you'll join us / And the world will be as one"
+    },
+    "ficha": {
+      "album": "Imagine",
+      "genero": "Soft Rock / Pop",
+      "pais_origen": "Reino Unido",
+      "enlace_media": "https://www.youtube.com/watch?v=YkgkThbgXqy"
+    }
+  },
+  {
+    "id": 2,
+    "nivel_titular": {
+      "titulo_cancion": "Blowin' in the Wind",
+      "artista": "Bob Dylan",
+      "ano": 1963,
+      "foto_caratula": "https://commons.wikimedia.org/wiki/File:The_Freewheelin%27_Bob_Dylan.jpg"
+    },
+    "cuerpo": {
+      "historia_composicion": "Escrita por Bob Dylan en 1962 y adaptada de un antiguo espiritual negro ('No More Auction Block'), la canción plantea preguntas retóricas fundamentales sobre la guerra, la libertad y el sufrimiento humano sin ofrecer respuestas fáciles, sugiriendo que la verdad flota en el aire.",
+      "movimiento_social": "Movimiento por los Derechos Civiles en Estados Unidos y las marchas pacifistas de los años 60."
+    },
+    "extracto_destacado": {
+      "estrofa_emblematica": "How many times must the cannonballs fly / Before they're forever banned? / The answer, my friend, is blowin' in the wind / The answer is blowin' in the wind"
+    },
+    "ficha": {
+      "album": "The Freewheelin' Bob Dylan",
+      "genero": "Folk",
+      "pais_origen": "Estados Unidos",
+      "enlace_media": "https://www.youtube.com/watch?v=vWwgrjjIMXA"
+    }
+  },
+  {
+    "id": 3,
+    "nivel_titular": {
+      "titulo_cancion": "Redemption Song",
+      "artista": "Bob Marley & The Wailers",
+      "ano": 1980,
+      "foto_caratula": "https://commons.wikimedia.org/wiki/File:Uprising_Bob_Marley_album.jpg"
+    },
+    "cuerpo": {
+      "historia_composicion": "Grabada mientras Bob Marley ya enfrentaba el cáncer que acabaría con su vida, es un himno acústico de resistencia espiritual. La letra rescata citas de discursos del líder panafricanista Marcus Garvey sobre la emancipación mental de la opresión.",
+      "movimiento_social": "Movimiento panafricanista y luchas por los derechos humanos y la descolonización."
+    },
+    "extracto_destacado": {
+      "estrofa_emblematica": "Emancipate yourselves from mental slavery / None but ourselves can free our minds / Have no fear for atomic energy / 'Cause none of them can stop the time"
+    },
+    "ficha": {
+      "album": "Uprising",
+      "genero": "Folk Reggae / Acústico",
+      "pais_origen": "Jamaica",
+      "enlace_media": "https://www.youtube.com/watch?v=QrY9eHkX84E"
+    }
+  },
+  {
+    "id": 4,
+    "nivel_titular": {
+      "titulo_cancion": "Sólo le pido a Dios",
+      "artista": "León Gieco",
+      "estilo_artistico": "Folk Rock / Canción de protesta",
+      "ano": 1978,
+      "foto_caratula": "https://commons.wikimedia.org/wiki/File:Leon_Gieco_IV_Album.jpg"
+    },
+    "cuerpo": {
+      "historia_composicion": "Compuesta por León Gieco en 1978 en medio del peligro inminente de un conflicto bélico entre Argentina y Chile por el Canal Beagle, durante la dictadura militar argentina. Aunque el autor casi la descarta por considerarla monótona, se convirtió en un himno de resistencia pacífica.",
+      "movimiento_social": "Movimiento contra la dictadura militar, la Guerra de las Malvinas y símbolo por la paz en América Latina."
+    },
+    "extracto_destacado": {
+      "estrofa_emblematica": "Sólo le pido a Dios / Que la guerra no me sea indiferente / Es un monstruo grande y pisa fuerte / Toda la pobre inocencia de la gente"
+    },
+    "ficha": {
+      "album": "IV (Pensar en nada)",
+      "genero": "Folk Rock",
+      "pais_origen": "Argentina",
+      "enlace_media": "https://www.youtube.com/watch?v=T_T5C4D8YpM"
+    }
+  },
+  {
+    "id": 5,
+    "nivel_titular": {
+      "titulo_cancion": "Give Peace a Chance",
+      "artista": "Plastic Ono Band",
+      "ano": 1969,
+      "foto_caratula": "https://commons.wikimedia.org/wiki/File:Give_Peace_a_Chance_single.jpg"
+    },
+    "cuerpo": {
+      "historia_composicion": "Grabada durante la famosa 'Encamada por la paz' (Bed-In for Peace) en el Hotel Queen Elizabeth de Montreal, donde John Lennon y Yoko Ono permanecieron en la cama como protesta contra la guerra. Fue improvisada y cantada junto a activistas, periodistas y celebridades presentes.",
+      "movimiento_social": "Movimiento Hippie y manifestaciones masivas contra la intervención armada en Vietnam."
+    },
+    "extracto_destacado": {
+      "estrofa_emblematica": "All we are saying is give peace a chance / All we are saying is give peace a chance"
+    },
+    "ficha": {
+      "album": "Sencillo no perteneciente a álbum",
+      "genero": "Rock experimental / Cántico de protesta",
+      "pais_origen": "Reino Unido / Canadá",
+      "enlace_media": "https://www.youtube.com/watch?v=C3_0GqPGY4c"
+    }
+  },
+  {
+    "id": 6,
+    "nivel_titular": {
+      "titulo_cancion": "Zombie",
+      "artista": "The Cranberries",
+      "ano": 1994,
+      "foto_caratula": "https://commons.wikimedia.org/wiki/File:The_Cranberries_No_Need_to_Argue.jpg"
+    },
+    "cuerpo": {
+      "historia_composicion": "Escrita por Dolores O'Riordan en memoria de Jonathan Ball y Tim Parry, dos niños asesinados por una bomba del IRA en Warrington, Inglaterra, en 1993. La canción condena la violencia armada sectaria que azotó a Irlanda del Norte durante décadas.",
+      "movimiento_social": "Oposición al conflicto de Irlanda del Norte ('The Troubles') y rechazo al terrorismo armado."
+    },
+    "extracto_destacado": {
+      "estrofa_emblematica": "Another head hangs lowly / Child is slowly taken / And the violence caused such silence / Who are we mistaken?"
+    },
+    "ficha": {
+      "album": "No Need to Argue",
+      "genero": "Alternative Rock / Grunge",
+      "pais_origen": "Irlanda",
+      "enlace_media": "https://www.youtube.com/watch?v=6Ejga4kJUts"
+    }
+  },
+  {
+    "id": 7,
+    "nivel_titular": {
+      "titulo_cancion": "Where Is the Love?",
+      "artista": "Black Eyed Peas",
+      "ano": 2003,
+      "foto_caratula": "https://commons.wikimedia.org/wiki/File:Elephunk_album_cover.jpg"
+    },
+    "cuerpo": {
+      "historia_composicion": "Escrita tras los atentados del 11 de septiembre de 2001 en EE. UU. y el inicio de la Invasión a Irak en 2003. La canción aborda el racismo, la violencia en las calles, la desinformación de los medios y el aumento de la beligerancia global.",
+      "movimiento_social": "Movimiento Pacifista de principios del siglo XXI contra la Guerra de Irak y el odio social."
+    },
+    "extracto_destacado": {
+      "estrofa_emblematica": "People killin', people dyin' / Children hurt and you hear 'em cryin' / Can you practice what you preach? / And would you turn the other cheek?"
+    },
+    "ficha": {
+      "album": "Elephunk",
+      "genero": "Hip Hop / Pop",
+      "pais_origen": "Estados Unidos",
+      "enlace_media": "https://www.youtube.com/watch?v=WpYeekQkAdc"
+    }
+  },
+  {
+    "id": 8,
+    "nivel_titular": {
+      "titulo_cancion": "A Change Is Gonna Come",
+      "artista": "Sam Cooke",
+      "ano": 1964,
+      "foto_caratula": "https://commons.wikimedia.org/wiki/File:Ain%27t_That_Good_News_Sam_Cooke.jpg"
+    },
+    "cuerpo": {
+      "historia_composicion": "Inspirada tras escuchar 'Blowin' in the Wind' de Bob Dylan y vivir en carne propia la segregación racial cuando le negaron el hospedaje en un hotel de Luisiana. Cooke escribió este emotivo himno de esperanza poco antes de su trágica muerte.",
+      "movimiento_social": "Movimiento por los Derechos Civiles afroamericanos en EE. UU."
+    },
+    "extracto_destacado": {
+      "estrofa_emblematica": "It's been a long, a long time comin' / But I know a change gonna come, oh yes it will"
+    },
+    "ficha": {
+      "album": "Ain't That Good News",
+      "genero": "Soul / Gospel",
+      "pais_origen": "Estados Unidos",
+      "enlace_media": "https://www.youtube.com/watch?v=wEBlaMOmKV4"
+    }
+  },
+  {
+    "id": 9,
+    "nivel_titular": {
+      "titulo_cancion": "El derecho de vivir en paz",
+      "artista": "Víctor Jara",
+      "ano": 1971,
+      "foto_caratula": "https://commons.wikimedia.org/wiki/File:Victor_Jara_El_derecho_de_vivir_en_paz.jpg"
+    },
+    "cuerpo": {
+      "historia_composicion": "Compuesta originalmente como un homenaje al pueblo vietnamita y a su líder Ho Chi Minh durante la Guerra de Vietnam. Tras la muerte de Víctor Jara durante el golpe militar en Chile (1973), la canción trascendió su motivo original para convertirse en una bandera de soberanía y no violencia.",
+      "movimiento_social": "Movimiento de la Nueva Canción Chilena, protestas por la paz en Indochina y marchas por los derechos humanos."
+    },
+    "extracto_destacado": {
+      "estrofa_emblematica": "El derecho de vivir / Poeta Ho Chi Minh / Que golpea de Vietnam / A toda la humanidad / Ninguna bomba borrará / La lumbre de tu pueblo"
+    },
+    "ficha": {
+      "album": "El derecho de vivir en paz",
+      "genero": "Nueva Canción / Folk latinoamericano",
+      "pais_origen": "Chile",
+      "enlace_media": "https://www.youtube.com/watch?v=WTJSt4wP2ME"
+    }
+  },
+  {
+    "id": 10,
+    "nivel_titular": {
+      "titulo_cancion": "What a Wonderful World",
+      "artista": "Louis Armstrong",
+      "ano": 1967,
+      "foto_caratula": "https://commons.wikimedia.org/wiki/File:What_a_Wonderful_World_Louis_Armstrong.jpg"
+    },
+    "cuerpo": {
+      "historia_composicion": "Escrita por Bob Thiele y George David Weiss durante la convulsionada década de los 60 (marcada por luchas raciales y tensiones de la Guerra Fría). Fue pensada como un antídoto de esperanza, resaltando la belleza cotidiana del planeta y la capacidad humana de amor.",
+      "movimiento_social": "Mensaje universal de reconciliación, paz e integración racial."
+    },
+    "extracto_destacado": {
+      "estrofa_emblematica": "I see trees of green, red roses too / I see them bloom for me and you / And I think to myself, what a wonderful world"
+    },
+    "ficha": {
+      "album": "What a Wonderful World",
+      "genero": "Traditional Pop / Jazz",
+      "pais_origen": "Estados Unidos",
+      "enlace_media": "https://www.youtube.com/watch?v=A3yCcXgbKrE"
+    }
+  }
+]

@@ -1,0 +1,292 @@
+[
+  {
+    "id": 1,
+    "nivel_titular": {
+      "titulo_obra": "Guernica",
+      "artista": "Pablo Picasso",
+      "estilo_artistico": "Cubismo / Expresionismo",
+      "ano_creacion": 1937,
+      "descripcion_breve": "Monumental lienzo que retrata el horror del bombardeo a la villa vasca de Guernica, convertido en el símbolo universal contra la crueldad de la guerra.",
+      "foto_principal": "obras-img/guernica-picasso.webp"
+    },
+    "cuerpo": {
+      "contexto_historico": "Encargado por el gobierno de la Segunda República Española para el Pabellón Español de la Exposición Internacional de París de 1937, tras el devastador ataque aéreo nazi e italiano sobre la población civil de Guernica.",
+      "analisis_mensaje_pacifista": "Carece de referencias bélicas concretas como aviones o bombas; en su lugar, utiliza figuras humanas y animales agónicos (un toro, un caballo herido, una madre con su hijo muerto) para transmitir la desesperación y el sufrimiento de la población civil."
+    },
+    "detalle": {
+      "tecnica": "Óleo sobre lienzo",
+      "dimensiones": "349.3 cm × 776.6 cm",
+      "ubicacion_actual_o_origen": "Museo Nacional Centro de Arte Reina Sofía, Madrid, España"
+    },
+    "multimedia": {
+      "imagen_alta_resolucion": "https://commons.wikimedia.org/wiki/File:PicassoGuernica.jpg",
+      "bocetos_o_detalles": [
+        {
+          "etiqueta": "Estudio para la madre con hijo muerto",
+          "url": "https://commons.wikimedia.org/wiki/File:Picasso_Guernica_sketch.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "nivel_titular": {
+      "titulo_obra": "Mein Gott, hilf mir, diese tödliche Liebe zu überleben (Señor mío, ayúdame a sobrevivir a este amor mortal)",
+      "artista": "Dmitri Vrubel",
+      "estilo_artistico": "Arte Urbano / Grafiti",
+      "ano_creacion": 1990,
+      "descripcion_breve": "Icónico mural que recrea el beso fraternal entre los líderes comunistas Leonid Brézhnev y Erich Honecker sobre los restos del Muro de Berlín.",
+      "foto_principal": "obras-img/elbeso-vrubel.jpg"
+    },
+    "cuerpo": {
+      "contexto_historico": "Pintado poco después de la caída del Muro de Berlín en 1989 sobre la sección más larga que quedó en pie, conocida como la East Side Gallery, simbolizando la apertura y el fin de la Guerra Fría.",
+      "analisis_mensaje_pacifista": "Sátira visual del diplomático 'beso de paz' comunista, utilizando la ironía para exponer la hipocresía política y la opresión del régimen soviético frente al deseo de libertad de los pueblos."
+    },
+    "detalle": {
+      "tecnica": "Pintura acrílica sobre muro de hormigón",
+      "dimensiones": "360 cm × 480 cm",
+      "ubicacion_actual_o_origen": "East Side Gallery, Muro de Berlín, Alemania"
+    },
+    "multimedia": {
+      "imagen_alta_resolucion": "https://commons.wikimedia.org/wiki/File:Fraternal_Kiss_East_Side_Gallery_Berlin.jpg",
+      "bocetos_o_detalles": [
+        {
+          "etiqueta": "Detalle del texto inscripto en la base",
+          "url": "https://commons.wikimedia.org/wiki/File:Fraternal_Kiss_detail.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "nivel_titular": {
+      "titulo_obra": "Armored Dove (La Paloma Blindada)",
+      "artista": "Banksy",
+      "estilo_artistico": "Arte Urbano / Stencil",
+      "ano_creacion": 2005,
+      "descripcion_breve": "Mural que muestra una paloma de la paz con un chaleco antibalas y una diana roja apuntando directamente a su pecho.",
+      "foto_principal": "obras-img/paloma-bansky.jpg"
+    },
+    "cuerpo": {
+      "contexto_historico": "Realizado durante una incursión del artista callejero británico Banksy en los muros y edificios de la ciudad de Belén, en Cisjordania, en el contexto del conflicto israelí-palestino.",
+      "analisis_mensaje_pacifista": "Denuncia la extrema vulnerabilidad del deseo de paz en zonas de guerra, sugiriendo que incluso el símbolo sagrado de la no violencia necesita protección militar frente al fuego cruzado."
+    },
+    "detalle": {
+      "tecnica": "Graffiti con plantilla (stencil) y pintura en aerosol",
+      "dimensiones": "Dimensiones variables (escala real sobre fachada)",
+      "ubicacion_actual_o_origen": "Muro en una edificación de Belén, Palestina"
+    },
+    "multimedia": {
+      "imagen_alta_resolucion": "https://commons.wikimedia.org/wiki/File:Banksy_Armored_Dove_Bethlehem.jpg",
+      "bocetos_o_detalles": [
+        {
+          "etiqueta": "Detalle del chaleco y la mira telescópica",
+          "url": "https://commons.wikimedia.org/wiki/File:Banksy_Dove_Detail.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "nivel_titular": {
+      "titulo_obra": "Los Paneles de Hiroshima (Hiroshima no Pika)",
+      "artista": "Iri Maruki y Toshi Maruki",
+      "estilo_artistico": "Arte Moderno / Nihonga (Tinta tradicional japonesa)",
+      "ano_creacion": 1950,
+      "descripcion_breve": "Serie monumental de biombos que retratan los momentos inmediatamente posteriores a la caída de la bomba atómica en Hiroshima.",
+      "foto_principal": "obras-img/paneles-maruki.jpg"
+    },
+    "cuerpo": {
+      "contexto_historico": "Los esposos Maruki llegaron a Hiroshima tres días después de la bomba atómica para socorrer a familiares. Impactados por la devastación, dedicaron más de tres décadas a crear esta serie para que el mundo no olvidara.",
+      "analisis_mensaje_pacifista": "Fusiona la caligrafía y pintura tradicional japonesa en tinta de lavados sumi-e con la crudeza del sufrimiento atómico, abogando apasionadamente por la abolición universal del armamento nuclear."
+    },
+    "detalle": {
+      "tecnica": "Tinta sumi y pigmentos de color sobre papel de arroz montado en biombos de madera",
+      "dimensiones": "180 cm × 720 cm (por panel)",
+      "ubicacion_actual_o_origen": "Museo Maruki para los Paneles de Hiroshima, Saitama, Japón"
+    },
+    "multimedia": {
+      "imagen_alta_resolucion": "https://commons.wikimedia.org/wiki/File:Maruki_Hiroshima_Panels.jpg",
+      "bocetos_o_detalles": [
+        {
+          "etiqueta": "Panel 'Fuego'",
+          "url": "https://commons.wikimedia.org/wiki/File:Maruki_Panel_Fire.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "nivel_titular": {
+      "titulo_obra": "La Paloma de la Paz (La Colombe)",
+      "artista": "Pablo Picasso",
+      "estilo_artistico": "Litografía / Ilustración",
+      "ano_creacion": 1949,
+      "descripcion_breve": "Ilustración minimalista de una paloma blanca elegida como el emblema oficial del Congreso Mundial de los Partidarios de la Paz en París.",
+      "foto_principal": "obras-img/paloma-picasso.jpg"
+    },
+    "cuerpo": {
+      "contexto_historico": "Creada en enero de 1949 en el taller del litógrafo Fernand Mourlot en París. Louis Aragon la seleccionó poco después para ilustrar el cartel del histórico Congreso por la Paz tras la Segunda Guerra Mundial.",
+      "analisis_mensaje_pacifista": "Simplifica la imagen del ave a sus líneas más puras y delicadas, transformando un símbolo tradicional en un ícono visual universal de esperanza, serenidad y reconciliación internacional."
+    },
+    "detalle": {
+      "tecnica": "Litografía en papel",
+      "dimensiones": "54.7 cm × 69.7 cm",
+      "ubicacion_actual_o_origen": "Colección de la Tate Modern, Londres, Reino Unido"
+    },
+    "multimedia": {
+      "imagen_alta_resolucion": "https://commons.wikimedia.org/wiki/File:Dove_of_Peace_Picasso_1949.jpg",
+      "bocetos_o_detalles": [
+        {
+          "etiqueta": "Litografía original de 1949",
+          "url": "https://commons.wikimedia.org/wiki/File:Picasso_Dove_Lithograph.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "nivel_titular": {
+      "titulo_obra": "Guerra y Paz (Guerra e Paz)",
+      "artista": "Cândido Portinari",
+      "estilo_artistico": "Modernismo / Neorrealismo",
+      "ano_creacion": 1956,
+      "descripcion_breve": "Dos monumentales paneles regalados por Brasil a la ONU que representan el sufrimiento del conflicto y la serenidad de la armonía comunitaria.",
+      "foto_principal": "datasets/obras-img/portinari.jpg"
+    },
+    "cuerpo": {
+      "contexto_historico": "Encargados por el gobierno brasileño en 1952 para ser donados a la Sede de las Naciones Unidas en Nueva York. Portinari trabajó en ellos durante cuatro años a pesar de la grave intoxicación por plomo que le causaban los pigmentos.",
+      "analisis_mensaje_pacifista": "El panel de la 'Guerra' no muestra armas ni soldados, sino el dolor devastador de madres, niños y piedad humana. En contraste, el panel de la 'Paz' utiliza tonos cálidos para mostrar niños jugando, coros cantando y trabajo pacífico."
+    },
+    "detalle": {
+      "tecnica": "Óleo sobre madera contrachapada",
+      "dimensiones": "1400 cm × 1000 cm (cada panel)",
+      "ubicacion_actual_o_origen": "Sede de las Naciones Unidas (Vestíbulo de la Asamblea General), Nueva York, EE. UU."
+    },
+    "multimedia": {
+      "imagen_alta_resolucion": "https://commons.wikimedia.org/wiki/File:Portinari_Guerra_e_Paz_ONU.jpg",
+      "bocetos_o_detalles": [
+        {
+          "etiqueta": "Estudio para el panel Guerra",
+          "url": "https://commons.wikimedia.org/wiki/File:Portinari_Guerra_Study.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "nivel_titular": {
+      "titulo_obra": "Rage, the Flower Thrower (El Lanzador de Flores)",
+      "artista": "Banksy",
+      "estilo_artistico": "Arte Urbano / Stencil",
+      "ano_creacion": 2003,
+      "descripcion_breve": "Mural que muestra a un manifestante encapuchado lanzando un ramo de flores de colores en lugar de un cóctel Molotov.",
+      "foto_principal": "obras-img/ellanzadordefloresBansky.jpg"
+    },
+    "cuerpo": {
+      "contexto_historico": "Apareció por primera vez en una pared lateral de un taller de reparación de automóviles en la carretera de Jerusalén a Belén, poco después de la construcción del muro de separación en Cisjordania.",
+      "analisis_mensaje_pacifista": "Sustituye el arma destructiva tradicional por flores coloridas, transmitiendo que la verdadera resistencia y la paz se construyen mediante el amor, la belleza y la no violencia activa."
+    },
+    "detalle": {
+      "tecnica": "Aerosol y plantilla (stencil) sobre muro de ladrillo",
+      "dimensiones": "Dimensiones variables (escala real)",
+      "ubicacion_actual_o_origen": "Jerusalén / Belén, Palestina"
+    },
+    "multimedia": {
+      "imagen_alta_resolucion": "https://commons.wikimedia.org/wiki/File:Banksy_Flower_Thrower_Jerusalem.jpg",
+      "bocetos_o_detalles": [
+        {
+          "etiqueta": "Detalle del ramo de flores",
+          "url": "https://commons.wikimedia.org/wiki/File:Banksy_Flower_Detail.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "nivel_titular": {
+      "titulo_obra": "Muro de John Lennon (Lennon Wall)",
+      "artista": "Artistas urbanos varios y juventud praguense",
+      "estilo_artistico": "Arte Urbano / Grafiti colectivo",
+      "ano_creacion": 1980,
+      "descripcion_breve": "Muro colaborativo que surgió como símbolo de protesta pacífica y libertad de expresión contra el régimen comunista en la Checoslovaquia de la Guerra Fría.",
+      "foto_principal": "obras-img/lenon.jpg"
+    },
+    "cuerpo": {
+      "contexto_historico": "Tras el asesinato de John Lennon en 1980, un artista anónimo pintó su retrato y letras de canciones de The Beatles en una pared del barrio de Malá Strana, convirtiéndose en un punto de encuentro clandestino de la juventud.",
+      "analisis_mensaje_pacifista": "Representa la resistencia cultural no violenta; a pesar de que las autoridades blanquearon el muro repetidamente durante los años 80, al día siguiente volvía a amanecer lleno de poemas, flores y mensajes pacifistas."
+    },
+    "detalle": {
+      "tecnica": "Pintura en aerosol, grafiti, carteles y tiza sobre muro de piedra",
+      "dimensiones": "Muro urbano de aproximadamente 20 metros de longitud",
+      "ubicacion_actual_o_origen": "Plaza Gran Priorato, Malá Strana, Praga, República Checa"
+    },
+    "multimedia": {
+      "imagen_alta_resolucion": "https://commons.wikimedia.org/wiki/File:Lennon_Wall_Prague_2019.jpg",
+      "bocetos_o_detalles": [
+        {
+          "etiqueta": "Detalle del retrato de John Lennon y símbolos de paz",
+          "url": "https://commons.wikimedia.org/wiki/File:Lennon_Wall_Detail.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "nivel_titular": {
+      "titulo_obra": "El Canto a la Paz y la Concordia",
+      "artista": "Manuel Felguérez",
+      "estilo_artistico": "Arte Abstracto / Escultura monumental",
+      "ano_creacion": 2009,
+      "descripcion_breve": "Obra escultórica abstracta diseñada para promover el diálogo cultural y la resolución pacífica de los conflictos internacionales.",
+      "foto_principal": "obras-img/felguerez.jpg"
+    },
+    "cuerpo": {
+      "contexto_historico": "Creada por el artista de la 'Generación de la Ruptura' en México como parte de las conmemoraciones culturales dedicadas al entendimiento entre las naciones.",
+      "analisis_mensaje_pacifista": "Usa formas geométricas dinámicas y ensamblajes metálicos que se entrelazan sin chocar, simbolizando cómo diversas posturas e identidades pueden coexistir en armonía."
+    },
+    "detalle": {
+      "tecnica": "Acero esculpido y ensamblado con pintura anticorrosiva",
+      "dimensiones": "600 cm × 400 cm × 250 cm",
+      "ubicacion_actual_o_origen": "Plaza de las Naciones / Espacio público, Ciudad de México, México"
+    },
+    "multimedia": {
+      "imagen_alta_resolucion": "https://commons.wikimedia.org/wiki/File:Manuel_Felguerez_Escultura_Paz.jpg",
+      "bocetos_o_detalles": [
+        {
+          "etiqueta": "Boceto estructural de ensamblaje",
+          "url": "https://commons.wikimedia.org/wiki/File:Felguerez_Sketch_Peace.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "nivel_titular": {
+      "titulo_obra": "Non-Violence (La Pistola Anudada)",
+      "artista": "Carl Fredrik Reuterswärd",
+      "estilo_artistico": "Arte Contemporáneo / Escultura de Protesta",
+      "ano_creacion": 1985,
+      "descripcion_breve": "Escultura en bronce de un revólver Colt Python .357 Magnum oversize con el cañón atado en un nudo, inhabilitado para disparar.",
+      "foto_principal": "obras-img/non-violence.jpg"
+    },
+    "cuerpo": {
+      "contexto_historico": "Creada tras el asesinato del músico y activista por la paz John Lennon en diciembre de 1980, quien era amigo cercano del artista. Se convirtió en el símbolo global de la lucha contra la violencia armada.",
+      "analisis_mensaje_pacifista": "Inactiva de forma metafórica el instrumento del arma de fuego, transformando un objeto concebido para la destrucción en un manifiesto tridimensional a favor del desarme y la no violencia."
+    },
+    "detalle": {
+      "tecnica": "Fundición en bronce sobre peana de granito",
+      "dimensiones": "130 cm × 160 cm × 60 cm",
+      "ubicacion_actual_o_origen": "Sede de las Naciones Unidas, Nueva York, EE. UU. (con réplicas en Malmö, Estocolmo y Luxemburgo)"
+    },
+    "multimedia": {
+      "imagen_alta_resolucion": "https://commons.wikimedia.org/wiki/File:Non_Violence_UN_New_York.jpg",
+      "bocetos_o_detalles": [
+        {
+          "etiqueta": "Detalle del nudo en el cañón",
+          "url": "https://commons.wikimedia.org/wiki/File:Non_Violence_Detail_Knot.jpg"
+        }
+      ]
+    }
+  }
+]

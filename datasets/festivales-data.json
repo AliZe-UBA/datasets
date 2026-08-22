@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "nivel_titular": {
+      "nombre_iniciativa": "West-Eastern Divan Orchestra",
+      "disciplina": "Música clásica",
+      "alcance": "Internacional (Oriente Medio y Europa)",
+      "logo_imagen": "https://commons.wikimedia.org/wiki/File:West-Eastern_Divan_Orchestra.jpg"
+    },
+    "cuerpo": {
+      "mision": "Promover el diálogo, la convivencia y el entendimiento mutuo entre jóvenes músicos árabes, israelíes y españoles a través del lenguaje universal de la música.",
+      "fundadores": "Daniel Barenboim (director de orquesta) y Edward Said (intelectual palestino)",
+      "impacto_social": "Demuestra activamente que personas de naciones en conflicto histórico pueden colaborar, escucharse y crear armonía juntas, rompiendo barreras ideológicas."
+    },
+    "estadisticas_metricas": {
+      "paises_participantes": "Más de 10 países (Israel, Palestina, Siria, Jordania, Egipto, España, entre otros)",
+      "numero_ediciones": "Activa anualmente desde 1999 (más de 25 años)",
+      "beneficiarios": "Cientos de jóvenes músicos becados y miles de espectadores globales"
+    }
+  },
+  {
+    "id": 2,
+    "nivel_titular": {
+      "nombre_iniciativa": "Tregua Olímpica (Olympic Truce / Ekecheiria)",
+      "disciplina": "Deporte",
+      "alcance": "Global",
+      "logo_imagen": "https://commons.wikimedia.org/wiki/File:Olympic_rings_flag.svg"
+    },
+    "cuerpo": {
+      "mision": "Cesar todas las hostilidades bélicas durante la realización de los Juegos Olímpicos para permitir el paso seguro de atletas y promover la paz mundial.",
+      "fundadores": "Comité Olímpico Internacional (COI) y la Organización de las Naciones Unidas (ONU)",
+      "impacto_social": "Rescata una tradición de la Grecia Antigua para hacer llamados diplomáticos mundiales al alto el fuego y construir puentes mediante la competición deportiva limpia."
+    },
+    "estadisticas_metricas": {
+      "paises_participantes": "193 estados miembros de la ONU firman la resolución en cada edición",
+      "numero_ediciones": "Revivida formalmente en 1993; se renueva cada 2 años (Juegos de Verano e Invierno)",
+      "beneficiarios": "Comunidades en zonas de conflicto y la comunidad deportiva internacional"
+    }
+  },
+  {
+    "id": 3,
+    "nivel_titular": {
+      "nombre_iniciativa": "Festival Internacional de Cine y Derechos Humanos",
+      "disciplina": "Cine y audiovisual",
+      "alcance": "Internacional",
+      "logo_imagen": "https://commons.wikimedia.org/wiki/File:Cinema_projector_icon.svg"
+    },
+    "cuerpo": {
+      "mision": "Utilizar el cine como herramienta pedagógica para sensibilizar sobre las violaciones a los derechos humanos, la memoria histórica y la cultura de paz.",
+      "fundadores": "Diversas ONG culturales en alianza con redes de cine independiente",
+      "impacto_social": "Crea espacios de debate crítico entre realizadores, activistas y el público general sobre la justicia social, el refugio y la no violencia."
+    },
+    "estadisticas_metricas": {
+      "paises_participantes": "Más de 40 países productores en cada edición",
+      "numero_ediciones": "Más de 20 ediciones continuas en sedes como San Sebastián, Barcelona y Buenos Aires",
+      "beneficiarios": "Más de 15,000 asistentes por edición y comunidades educativas"
+    }
+  },
+  {
+    "id": 4,
+    "nivel_titular": {
+      "nombre_iniciativa": "Festival Internacional de Poesía de Medellín",
+      "disciplina": "Literatura / Poesía",
+      "alcance": "Internacional",
+      "logo_imagen": "https://commons.wikimedia.org/wiki/File:Open_book_icon.svg"
+    },
+    "cuerpo": {
+      "mision": "Transformar el espacio público a través de la poesía y el arte para desarmar los espíritus y superar el clima de violencia urbana e histórica.",
+      "fundadores": "Fernando Rendón y la revista de poesía Prometeo",
+      "impacto_social": "Nació en 1991 en uno de los momentos más violentos de Medellín, convirtiéndose en un símbolo de resistencia civil cultural que reunió a la ciudadanía en torno a la palabra (Galardonado con el Premio Right Livelihood / Nobel Alternativo)."
+    },
+    "estadisticas_metricas": {
+      "paises_participantes": "Más de 180 países representados a lo largo de su historia",
+      "numero_ediciones": "34 ediciones anuales consecutivas",
+      "beneficiarios": "Más de 100,000 asistentes por año en parques y teatros abiertos"
+    }
+  },
+  {
+    "id": 5,
+    "nivel_titular": {
+      "nombre_iniciativa": "Football for Peace (F4P)",
+      "disciplina": "Deporte / Fútbol",
+      "alcance": "Global",
+      "logo_imagen": "https://commons.wikimedia.org/wiki/File:Soccer_ball.svg"
+    },
+    "cuerpo": {
+      "mision": "Utilizar el fútbol para educar, concientizar y unir a comunidades divididas por conflictos religiosos, étnicos o culturales.",
+      "fundadores": "Kashif Siddiqi (futbolista) y Elías Figueroa (leyenda del fútbol chileno)",
+      "impacto_social": "Desarrolla torneos comunitarios y talleres de liderazgo ético que fomentan la tolerancia, la neutralidad y el juego limpio entre jóvenes en zonas vulnerables."
+    },
+    "estadisticas_metricas": {
+      "paises_participantes": "Proyectos activos en más de 15 países (incluyendo Reino Unido, Chile, Israel y Pakistán)",
+      "numero_ediciones": "Programa permanente desde su fundación en 2006",
+      "beneficiarios": "Más de 250,000 niños y jóvenes capacitados directa e indirectamente"
+    }
+  },
+  {
+    "id": 6,
+    "nivel_titular": {
+      "nombre_iniciativa": "Colección de Arte por la Paz de la UNESCO",
+      "disciplina": "Arte visual / Escultura y pintura",
+      "alcance": "Global",
+      "logo_imagen": "https://commons.wikimedia.org/wiki/File:UNESCO_logo.svg"
+    },
+    "cuerpo": {
+      "mision": "Preservar y exhibir obras donadas por estados miembros que simbolizan la paz, la diversidad cultural y el patrimonio de la humanidad.",
+      "fundadores": "UNESCO (Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura)",
+      "impacto_social": "Crea un inventario artístico mundial permanente que promueve la diplomacia cultural y la reflexión visual sobre los valores de la convivencia."
+    },
+    "estadisticas_metricas": {
+      "paises_participantes": "Más de 190 países donantes",
+      "numero_ediciones": "Exposición y catálogo permanente desde 1945",
+      "beneficiarios": "Millones de visitantes virtuales y presenciales en la sede de París"
+    }
+  },
+  {
+    "id": 7,
+    "nivel_titular": {
+      "nombre_iniciativa": "One Love Peace Concert",
+      "disciplina": "Música / Reggae",
+      "alcance": "Nacional e Internacional",
+      "logo_imagen": "https://commons.wikimedia.org/wiki/File:Bob-Marley-at-Crystal-Palace-1980.jpg"
+    },
+    "cuerpo": {
+      "mision": "Detener la guerra civil política entre el Partido Nacional del Pueblo (PNP) y el Partido Laborista de Jamaica (JLP) durante la crisis de 1978.",
+      "fundadores": "Bob Marley junto a líderes comunitarios y músicos jamaicanos",
+      "impacto_social": "Marcó un hito histórico cuando Bob Marley logró que los dos líderes políticos rivales (Michael Manley y Edward Seaga) subieran al escenario y se dieran la mano en público frente a miles de personas."
+    },
+    "estadisticas_metricas": {
+      "paises_participantes": "Jamaica (con cobertura mediática global)",
+      "numero_ediciones": "1 edición histórica emblemática (22 de abril de 1978)",
+      "beneficiarios": "32,000 asistentes presenciales y toda la población jamaicana"
+    }
+  },
+  {
+    "id": 8,
+    "nivel_titular": {
+      "nombre_iniciativa": "Conflict Kitchen",
+      "disciplina": "Gastronomía y Arte público",
+      "alcance": "Local con impacto internacional",
+      "logo_imagen": "https://commons.wikimedia.org/wiki/File:Cutlery_icon.svg"
+    },
+    "cuerpo": {
+      "mision": "Servir comida de países con los que Estados Unidos se encuentra en conflicto político o militar para fomentar el debate y la empatía cultural.",
+      "fundadores": "Jon Rubin y Dawn Weleski",
+      "impacto_social": "Acompañaba cada menú (de países como Irán, Cuba, Palestina, Corea del Norte o Afganistán) con publicaciones, entrevistas y eventos que humanizaban a los ciudadanos de esas naciones."
+    },
+    "estadisticas_metricas": {
+      "paises_participantes": "Más de 8 culturas gastronómicas representadas",
+      "numero_ediciones": "Proyecto activo continuo entre 2010 y 2017",
+      "beneficiarios": "Cientos de miles de comensales y participantes en talleres educativos"
+    }
+  },
+  {
+    "id": 9,
+    "nivel_titular": {
+      "nombre_iniciativa": "Festival Internacional de Teatro por la Paz",
+      "disciplina": "Artes escénicas / Teatro",
+      "alcance": "Latinoamericano",
+      "logo_imagen": "https://commons.wikimedia.org/wiki/File:Drama-masks.svg"
+    },
+    "cuerpo": {
+      "mision": "Promover obras de teatro social, comunitario y de calle que aborden temas de reconciliación, erradicación de la violencia de género y memoria de las víctimas.",
+      "fundadores": "Colectivos teatrales independientes y redes culturales de Latinoamérica",
+      "impacto_social": "Utiliza la dramatización y el foro-teatro para que comunidades afectadas por el conflicto puedan procesar sus vivencias e imaginar alternativas no violentas."
+    },
+    "estadisticas_metricas": {
+      "paises_participantes": "12 países de América Latina y el Caribe",
+      "numero_ediciones": "15 ediciones",
+      "beneficiarios": "Más de 50,000 personas en salas comunitarias y espacios públicos"
+    }
+  },
+  {
+    "id": 10,
+    "nivel_titular": {
+      "nombre_iniciativa": "Peace One Day (Conciertos por el Día de la Paz)",
+      "disciplina": "Música / Activismo audiovisual",
+      "alcance": "Global",
+      "logo_imagen": "https://commons.wikimedia.org/wiki/File:Peace_symbol.svg"
+    },
+    "cuerpo": {
+      "mision": "Institucionalizar un día de alto el fuego global y no violencia (21 de septiembre, Día Internacional de la Paz) celebrado mediante macroconciertos y campañas de concientización.",
+      "fundadores": "Jeremy Gilley (cineasta y activista británico)",
+      "impacto_social": "Logró que la ONU fijara unánimemente el 21 de septiembre como día de cese al fuego mundial, permitiendo que en esa jornada se lleven suministros médicos y vacunas a zonas de guerra inaccesibles."
+    },
+    "estadisticas_metricas": {
+      "paises_participantes": "Más de 200 países comprometidos",
+      "numero_ediciones": "Anual desde 1999 (más de 25 años)",
+      "beneficiarios": "Decenas de millones de personas alcanzadas por campañas humanitarias e inmunizaciones en días de tregua"
+    }
+  }
+]

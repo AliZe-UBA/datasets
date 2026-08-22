@@ -1,0 +1,233 @@
+[
+  {
+    "id": 1,
+    "nivel_titular": {
+      "nombre_monumento": "Parque e Instalaciones del Memorial de la Paz de Hiroshima",
+      "pais": "Japón",
+      "ciudad": "Hiroshima",
+      "ano_inauguracion": 1954,
+      "descripcion_breve": "Espacio conmemorativo dedicado a las víctimas del ataque nuclear de 1945 y símbolo mundial de la lucha por el desarme nuclear.",
+      "foto_principal": "monumentos-img/20181111_Hiroshima_Memorial_Cenotaph-1.jpg"
+    },
+    "cuerpo": {
+      "historia_construccion": "Diseñado tras la destrucción atómica del 6 de agosto de 1945 en el distrito de Nakajima, el epicentro comercial devastado. La Ley de la Construcción de la Ciudad Conmemorativa de la Paz de 1949 destinó esta zona a la reflexión permanente.",
+      "significado_arquitectonico": "El plan maestro de Kenzō Tange integra un cenotafio central en forma de arco 'haniwa' alineado visualmente con la Llama de la Paz y la Cúpula Genbaku.",
+      "eventos_conmemorativos": [
+        "Ceremonia Conmemorativa de la Paz de Hiroshima (6 de agosto)",
+        "Suelta de linternas flotantes (Tōrō Nagashi) en el río Motoyasu"
+      ]
+    },
+    "cita_inscripcion": {
+      "texto_original": "安らかに眠って下さい 過ちは 繰返しませぬから",
+      "traduccion_espanol": "Descansen en paz, pues el error no se repetirá.",
+      "ubicacion_en_monumento": "Grabado en el cenotafio central"
+    },
+    "datos_tecnicos": {
+      "arquitecto_escultor": ["Kenzō Tange", "Takashi Asada", "Sachio Ōtani"],
+      "materiales": [
+        "Hormigón armado",
+        "Granito",
+        "Estructura de acero expuesta"
+      ],
+      "ubicacion_geografica": {
+        "latitud": 34.3927,
+        "longitud": 132.4525,
+        "direccion": "1-2 Nakajimacho, Naka Ward, Hiroshima, Japón"
+      }
+    },
+    "potencial_grafico": {
+      "arquitectura": "Eje simétrico de diseño modernista brutalista alineado con las ruinas de la Cúpula.",
+      "fotografia_urbana": "Contraste entre las ruinas de la cúpula y el parque de cerezos a orillas del río.",
+      "mapas_interactivos": "Puntos de interés vinculados: Cenotafio, Cúpula, Estatua de Sadako Sasaki y Museo.",
+      "galeria_imagenes": [
+        {
+          "etiqueta": "Cúpula de la Bomba Atómica",
+          "url": "https://commons.wikimedia.org/wiki/File:Hiroshima_Peace_Memorial_Genbaku_Dome_01.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "nivel_titular": {
+      "nombre_monumento": "Campana de la Paz de las Naciones Unidas",
+      "pais": "Estados Unidos",
+      "ciudad": "Nueva York",
+      "ano_inauguracion": 1954,
+      "descripcion_breve": "Símbolo donado por Japón fundido con monedas de más de 60 países para recordar la aspiración global a la no violencia.",
+      "foto_principal": "monumentos-img/Campana-de-la-paz-Naciones-Unidas.jpg"
+    },
+    "cuerpo": {
+      "historia_construccion": "Impulsada por Chiyoji Nakagawa y la Asociación de las Naciones Unidas de Japón, fue regalada a la ONU en junio de 1954 como un llamado a la fraternidad tras la Segunda Guerra Mundial.",
+      "significado_arquitectonico": "Estructura de madera de ciprés japonés (hinoki) de estilo Shinto que protege la campana de bronce. Las monedas recolectadas incluyen aportes de niños de todo el mundo.",
+      "eventos_conmemorativos": [
+        "Día Internacional de la Paz (21 de septiembre)",
+        "Día de la Tierra (equinoccio de primavera)"
+      ]
+    },
+    "cita_inscripcion": {
+      "texto_original": "世界絶対平和萬歳",
+      "traduccion_espanol": "Viva la paz absoluta en el mundo.",
+      "ubicacion_en_monumento": "Grabado en caracteres Kanji sobre el bronce"
+    },
+    "datos_tecnicos": {
+      "arquitecto_escultor": ["Chiyoji Nakagawa", "Tadao Yoshida"],
+      "materiales": ["Bronce", "Madera de Hinoki", "Cobre"],
+      "ubicacion_geografica": {
+        "latitud": 40.7489,
+        "longitud": -73.968,
+        "direccion": "Sede de las Naciones Unidas, 1st Ave & E 46th St, Nueva York, EE. UU."
+      }
+    },
+    "potencial_grafico": {
+      "arquitectura": "Diseño Shinto tradicional rodeado por el paisaje urbano del complejo de la ONU.",
+      "fotografia_urbana": "Encuadre de la estructura de madera con los rascacielos de Manhattan al fondo.",
+      "mapas_interactivos": "Punto de interés en el recorrido exterior de la sede de la ONU.",
+      "galeria_imagenes": [
+        {
+          "etiqueta": "Campana de la Paz de la ONU",
+          "url": "https://commons.wikimedia.org/wiki/File:UN_Peace_Bell_New_York.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "nivel_titular": {
+      "nombre_monumento": "Llama de la Paz de Oslo",
+      "pais": "Noruega",
+      "ciudad": "Oslo",
+      "ano_inauguracion": 2000,
+      "descripcion_breve": "Llama permanente encendida a partir de fuegos de los cinco continentes para promover el compromiso permanente con la paz.",
+      "foto_principal": "monumentos-img/LlamadelaPazdeOslo.jpg"
+    },
+    "cuerpo": {
+      "historia_construccion": "Iniciativa de la World Peace Flame Foundation encendida en el muelle de Oslo junto al Ayuntamiento para resaltar el papel de la ciudad en la mediación internacional y el Premio Nobel.",
+      "significado_arquitectonico": "Estructura metálica y de cristal minimalista diseñada bajo la estética nórdica que alberga un fuego protegido del clima exterior.",
+      "eventos_conmemorativos": [
+        "Ceremonia del Premio Nobel de la Paz (10 de diciembre)",
+        "Marchas de antorchas por los Derechos Humanos"
+      ]
+    },
+    "cita_inscripcion": {
+      "texto_original": "Må freden herske på jorden",
+      "traduccion_espanol": "Que la paz prevalezca en la Tierra.",
+      "ubicacion_en_monumento": "Placa de bronce en la base"
+    },
+    "datos_tecnicos": {
+      "arquitecto_escultor": ["World Peace Flame Foundation"],
+      "materiales": ["Acero inoxidable", "Vidrio templado", "Granito noruego"],
+      "ubicacion_geografica": {
+        "latitud": 59.9111,
+        "longitud": 10.7312,
+        "direccion": "Rådhusplassen, Oslo, Noruega"
+      }
+    },
+    "potencial_grafico": {
+      "arquitectura": "Estilo nórdico contemporáneo integrado al puerto de la ciudad.",
+      "fotografia_urbana": "Tomas nocturnas del fuego reflejado en el fiordo de Oslo.",
+      "mapas_interactivos": "Ubicación clave dentro del circuito del Centro Nobel de la Paz.",
+      "galeria_imagenes": [
+        {
+          "etiqueta": "Llama de la Paz de Oslo",
+          "url": "https://commons.wikimedia.org/wiki/File:Oslo_Peace_Flame.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "nivel_titular": {
+      "nombre_monumento": "Parque de la Memoria y Monumento a las Víctimas del Terrorismo de Estado",
+      "pais": "Argentina",
+      "ciudad": "Buenos Aires",
+      "ano_inauguracion": 2007,
+      "descripcion_breve": "Espacio público a orillas del Río de la Plata destinado a la memoria de las víctimas de la dictadura cívico-militar.",
+      "foto_principal": "monumentos-img/ParquedelaMemoriayMonumentoalasVíctimasdelTerrorismodeEstado.jpg"
+    },
+    "cuerpo": {
+      "historia_construccion": "Impulsado por organismos de derechos humanos y la Ciudad de Buenos Aires a fines de los años 90 para recordar a las personas desaparecidas y asesinadas entre 1976 y 1983.",
+      "significado_arquitectonico": "Un muro rampa de piedra en zigzag simula una herida que se abre paso hacia el agua, con placas de pórfido que contienen miles de nombres por orden cronológico.",
+      "eventos_conmemorativos": [
+        "Día Nacional de la Memoria por la Verdad y la Justicia (24 de marzo)",
+        "Ofrendas florales al Río de la Plata"
+      ]
+    },
+    "cita_inscripcion": {
+      "texto_original": "Monumento a las Víctimas del Terrorismo de Estado - Memoria, Verdad y Justicia",
+      "traduccion_espanol": "Monumento a las Víctimas del Terrorismo de Estado - Memoria, Verdad y Justicia",
+      "ubicacion_en_monumento": "Muro de acceso al parque"
+    },
+    "datos_tecnicos": {
+      "arquitecto_escultor": [
+        "Estudio Baudizzone-Lestard-Varas",
+        "Claudio Vekstein"
+      ],
+      "materiales": ["Pórfido patagónico", "Hormigón visto", "Acero corten"],
+      "ubicacion_geografica": {
+        "latitud": -34.5411,
+        "longitud": -58.4522,
+        "direccion": "Av. Costanera Norte Rafael Obligado 6745, Buenos Aires, Argentina"
+      }
+    },
+    "potencial_grafico": {
+      "arquitectura": "Muro escultórico integrado al paisaje del río con recorrido en rampa.",
+      "fotografia_urbana": "Tomas panorámicas del muro extendiéndose hacia la costa.",
+      "mapas_interactivos": "Ruta de esculturas al aire libre e información del muro de nombres.",
+      "galeria_imagenes": [
+        {
+          "etiqueta": "Muro del Monumento",
+          "url": "https://commons.wikimedia.org/wiki/File:Parque_de_la_Memoria_Buenos_Aires_Monumento.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "nivel_titular": {
+      "nombre_monumento": "Raj Ghat (Memorial a Mahatma Gandhi)",
+      "pais": "India",
+      "ciudad": "Nueva Delhi",
+      "ano_inauguracion": 1948,
+      "descripcion_breve": "Memorial dedicado a Mahatma Gandhi, líder de la independencia india y promotor universal de la no violencia (Ahimsa).",
+      "foto_principal": "monumentos-img/Gandhi_Memorial.jpg"
+    },
+    "cuerpo": {
+      "historia_construccion": "Ubicado en el lugar donde Gandhi fue incinerado el 31 de enero de 1948, el área se transformó en un parque cenotafio que recibe a líderes de todo el mundo.",
+      "significado_arquitectonico": "Una plataforma cuadrada de mármol negro a cielo abierto que sostiene una llama eterna, rodeada de jardines serenos para reflejar la simplicidad de la vida de Gandhi.",
+      "eventos_conmemorativos": [
+        "Gandhi Jayanti (2 de octubre, Día Internacional de la No Violencia)",
+        "Martyrs' Day (30 de enero)"
+      ]
+    },
+    "cita_inscripcion": {
+      "texto_original": "हे राम",
+      "traduccion_espanol": "¡Oh, Dios! (He Ram - últimas palabras atribuídas a Gandhi)",
+      "ubicacion_en_monumento": "Inscripto en la plataforma de mármol negro"
+    },
+    "datos_tecnicos": {
+      "arquitecto_escultor": ["Vanu G. Bhuta"],
+      "materiales": [
+        "Mármol negro",
+        "Llama de bronce",
+        "Jardines de césped y piedra"
+      ],
+      "ubicacion_geografica": {
+        "latitud": 28.6406,
+        "longitud": 77.2495,
+        "direccion": "Ring Rd, Velodrome Road, Nueva Delhi, India"
+      }
+    },
+    "potencial_grafico": {
+      "arquitectura": "Diseño sobrio de mármol enmarcados por murallas de piedra y amplios céspedes.",
+      "fotografia_urbana": "Detalle de la llama eterna ardiendo sobre el mármol negro con arreglos florales.",
+      "mapas_interactivos": "Visualización del complejo de memoriales nacionales a orillas del río Yamuna.",
+      "galeria_imagenes": [
+        {
+          "etiqueta": "Plataforma de Raj Ghat",
+          "url": "https://commons.wikimedia.org/wiki/File:Raj_Ghat_Delhi_India.jpg"
+        }
+      ]
+    }
+  }
+]
