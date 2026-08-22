@@ -19,11 +19,11 @@
       "ubicacion_actual_o_origen": "Museo Nacional Centro de Arte Reina Sofía, Madrid, España"
     },
     "multimedia": {
-      "imagen_alta_resolucion": "https://commons.wikimedia.org/wiki/File:PicassoGuernica.jpg",
+      "imagen_alta_resolucion": "obras-img/guernica-picasso.webp",
       "bocetos_o_detalles": [
         {
           "etiqueta": "Estudio para la madre con hijo muerto",
-          "url": "https://commons.wikimedia.org/wiki/File:Picasso_Guernica_sketch.jpg"
+          "url": "obras-img/guernica-picasso.webp"
         }
       ]
     }
@@ -48,11 +48,11 @@
       "ubicacion_actual_o_origen": "East Side Gallery, Muro de Berlín, Alemania"
     },
     "multimedia": {
-      "imagen_alta_resolucion": "https://commons.wikimedia.org/wiki/File:Fraternal_Kiss_East_Side_Gallery_Berlin.jpg",
+      "imagen_alta_resolucion": "obras-img/elbeso-vrubel.jpg",
       "bocetos_o_detalles": [
         {
           "etiqueta": "Detalle del texto inscripto en la base",
-          "url": "https://commons.wikimedia.org/wiki/File:Fraternal_Kiss_detail.jpg"
+          "url": "obras-img/elbeso-vrubel.jpg"
         }
       ]
     }
@@ -77,11 +77,11 @@
       "ubicacion_actual_o_origen": "Muro en una edificación de Belén, Palestina"
     },
     "multimedia": {
-      "imagen_alta_resolucion": "https://commons.wikimedia.org/wiki/File:Banksy_Armored_Dove_Bethlehem.jpg",
+      "imagen_alta_resolucion": "obras-img/paloma-bansky.jpg",
       "bocetos_o_detalles": [
         {
           "etiqueta": "Detalle del chaleco y la mira telescópica",
-          "url": "https://commons.wikimedia.org/wiki/File:Banksy_Dove_Detail.jpg"
+          "url": "obras-img/paloma-bansky.jpg"
         }
       ]
     }
@@ -106,11 +106,11 @@
       "ubicacion_actual_o_origen": "Museo Maruki para los Paneles de Hiroshima, Saitama, Japón"
     },
     "multimedia": {
-      "imagen_alta_resolucion": "https://commons.wikimedia.org/wiki/File:Maruki_Hiroshima_Panels.jpg",
+      "imagen_alta_resolucion": "obras-img/paneles-maruki.jpg",
       "bocetos_o_detalles": [
         {
           "etiqueta": "Panel 'Fuego'",
-          "url": "https://commons.wikimedia.org/wiki/File:Maruki_Panel_Fire.jpg"
+          "url": "obras-img/paneles-maruki.jpg"
         }
       ]
     }
@@ -135,11 +135,11 @@
       "ubicacion_actual_o_origen": "Colección de la Tate Modern, Londres, Reino Unido"
     },
     "multimedia": {
-      "imagen_alta_resolucion": "https://commons.wikimedia.org/wiki/File:Dove_of_Peace_Picasso_1949.jpg",
+      "imagen_alta_resolucion": "obras-img/paloma-picasso.jpg",
       "bocetos_o_detalles": [
         {
           "etiqueta": "Litografía original de 1949",
-          "url": "https://commons.wikimedia.org/wiki/File:Picasso_Dove_Lithograph.jpg"
+          "url": "obras-img/paloma-picasso.jpg"
         }
       ]
     }
@@ -164,11 +164,11 @@
       "ubicacion_actual_o_origen": "Sede de las Naciones Unidas (Vestíbulo de la Asamblea General), Nueva York, EE. UU."
     },
     "multimedia": {
-      "imagen_alta_resolucion": "https://commons.wikimedia.org/wiki/File:Portinari_Guerra_e_Paz_ONU.jpg",
+      "imagen_alta_resolucion": "datasets/obras-img/portinari.jpg",
       "bocetos_o_detalles": [
         {
           "etiqueta": "Estudio para el panel Guerra",
-          "url": "https://commons.wikimedia.org/wiki/File:Portinari_Guerra_Study.jpg"
+          "url": "datasets/obras-img/portinari.jpg"
         }
       ]
     }
@@ -193,11 +193,11 @@
       "ubicacion_actual_o_origen": "Jerusalén / Belén, Palestina"
     },
     "multimedia": {
-      "imagen_alta_resolucion": "https://commons.wikimedia.org/wiki/File:Banksy_Flower_Thrower_Jerusalem.jpg",
+      "imagen_alta_resolucion": "obras-img/ellanzadordefloresBansky.jpg",
       "bocetos_o_detalles": [
         {
           "etiqueta": "Detalle del ramo de flores",
-          "url": "https://commons.wikimedia.org/wiki/File:Banksy_Flower_Detail.jpg"
+          "url": "obras-img/ellanzadordefloresBansky.jpg"
         }
       ]
     }
@@ -222,11 +222,11 @@
       "ubicacion_actual_o_origen": "Plaza Gran Priorato, Malá Strana, Praga, República Checa"
     },
     "multimedia": {
-      "imagen_alta_resolucion": "https://commons.wikimedia.org/wiki/File:Lennon_Wall_Prague_2019.jpg",
+      "imagen_alta_resolucion": "obras-img/lenon.jpg",
       "bocetos_o_detalles": [
         {
           "etiqueta": "Detalle del retrato de John Lennon y símbolos de paz",
-          "url": "https://commons.wikimedia.org/wiki/File:Lennon_Wall_Detail.jpg"
+          "url": "obras-img/lenon.jpg"
         }
       ]
     }
@@ -251,11 +251,11 @@
       "ubicacion_actual_o_origen": "Plaza de las Naciones / Espacio público, Ciudad de México, México"
     },
     "multimedia": {
-      "imagen_alta_resolucion": "https://commons.wikimedia.org/wiki/File:Manuel_Felguerez_Escultura_Paz.jpg",
+      "imagen_alta_resolucion": "obras-img/felguerez.jpg",
       "bocetos_o_detalles": [
         {
           "etiqueta": "Boceto estructural de ensamblaje",
-          "url": "https://commons.wikimedia.org/wiki/File:Felguerez_Sketch_Peace.jpg"
+          "url": "obras-img/felguerez.jpg"
         }
       ]
     }
@@ -280,11 +280,11 @@
       "ubicacion_actual_o_origen": "Sede de las Naciones Unidas, Nueva York, EE. UU. (con réplicas en Malmö, Estocolmo y Luxemburgo)"
     },
     "multimedia": {
-      "imagen_alta_resolucion": "https://commons.wikimedia.org/wiki/File:Non_Violence_UN_New_York.jpg",
+      "imagen_alta_resolucion": "obras-img/non-violence.jpg",
       "bocetos_o_detalles": [
         {
           "etiqueta": "Detalle del nudo en el cañón",
-          "url": "https://commons.wikimedia.org/wiki/File:Non_Violence_Detail_Knot.jpg"
+          "url": "obras-img/non-violence.jpg"
         }
       ]
     }
