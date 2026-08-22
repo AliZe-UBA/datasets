@@ -252,5 +252,257 @@
         }
       ]
     }
+  },
+  {
+    "id": 6,
+    "nivel_titular": {
+      "nombre_monumento": "Memorial del Genocidio de Kigali",
+      "pais": "Ruanda",
+      "ciudad": "Kigali",
+      "ano_inauguracion": 2004,
+      "descripcion_breve": "Lugar de descanso final para más de 250.000 víctimas del genocidio de 1994 y centro de educación para la prevención de futuros conflictos.",
+      "foto_principal": "monumentos-img/MemorialdelGenocidiodeKigali.jpg"
+    },
+    "cuerpo": {
+      "historia_construccion": "Construido en el 10.º aniversario del genocidio contra los tutsis en 1994, el sitio se estableció para ofrecer un entierro digno a las víctimas y promover la reconciliación nacional.",
+      "significado_arquitectonico": "Comprende fosas comunes rodeadas de jardines del recuerdo, un muro con los nombres de los fallecidos y una llama permanente de la memoria.",
+      "eventos_conmemorativos": [
+        "Kwibuka - Día del Recuerdo del Genocidio (7 de abril)",
+        "Jornadas educativas sobre paz y prevención de la violencia"
+      ]
+    },
+    "cita_inscripcion": {
+      "texto_original": "Never Again",
+      "traduccion_espanol": "Nunca más",
+      "ubicacion_en_monumento": "Placa conmemorativa en la entrada del memorial"
+    },
+    "datos_tecnicos": {
+      "arquitecto_escultor": [
+        "Aegis Trust",
+        "Ayuntamiento de Kigali"
+      ],
+      "materiales": [
+        "Piedra local",
+        "Hormigón",
+        "Granito"
+      ],
+      "ubicacion_geografica": {
+        "latitud": -1.9306,
+        "longitud": 30.0606,
+        "direccion": "KG 14 Ave, Kigali, Ruanda"
+      }
+    },
+    "potencial_grafico": {
+      "arquitectura": "Jardines amurallados con terrazas de piedra y fosas comunes integradas al paisaje.",
+      "fotografia_urbana": "Tomas de la llama de la memoria con la vista de las colinas de Kigali.",
+      "mapas_interactivos": "Recorrido por las distintas secciones del museo y jardines de meditación.",
+      "galeria_imagenes": [
+        {
+          "etiqueta": "Entrada principal del Memorial",
+          "url": "monumentos-img/MemorialdelGenocidiodeKigali.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "nivel_titular": {
+      "nombre_monumento": "Memorial a los Judíos Asesinados de Europa",
+      "pais": "Alemania",
+      "ciudad": "Berlín",
+      "ano_inauguracion": 2005,
+      "descripcion_breve": "Campo de bloques de hormigón diseñado para generar una experiencia de desorientación y reflexión sobre el Holocausto.",
+      "foto_principal": "monumentos-img/MemoriaalosJudiosAsesinadosdeEuropa.jpg"
+    },
+    "cuerpo": {
+      "historia_construccion": "Aprobado por el Parlamento alemán en 1999 tras años de debate público sobre cómo recordar el Holocausto en el centro de la reunificada Berlín.",
+      "significado_arquitectonico": "Consta de 2.711 losas de hormigón (estelas) de diferentes alturas dispuestas en una cuadrícula ondulante sobre un terreno irregular.",
+      "eventos_conmemorativos": [
+        "Día Internacional de Conmemoración del Holocausto (27 de enero)",
+        "Actos oficiales del gobierno federal alemán"
+      ]
+    },
+    "cita_inscripcion": {
+      "texto_original": "Es ist geschehen, folglich kann es wieder geschehen...",
+      "traduccion_espanol": "Ocurrió, por lo tanto, puede volver a ocurrir... (Primo Levi)",
+      "ubicacion_en_monumento": "Centro de Información subterráneo"
+    },
+    "datos_tecnicos": {
+      "arquitecto_escultor": [
+        "Peter Eisenman"
+      ],
+      "materiales": [
+        "Hormigón armado con revestimiento anti-grafiti"
+      ],
+      "ubicacion_geografica": {
+        "latitud": 52.5163,
+        "longitud": 13.3777,
+        "direccion": "Cora-Berliner-Straße 1, 10117 Berlín, Alemania"
+      }
+    },
+    "potencial_grafico": {
+      "arquitectura": "Diseño abstracto y repetitivo que crea patrones de sombras según la hora del día.",
+      "fotografia_urbana": "Perspectivas profundas desde los pasillos estrechos entre estelas.",
+      "mapas_interactivos": "Plano interactivo del laberinto de estelas y la ubicación del museo subterráneo.",
+      "galeria_imagenes": [
+        {
+          "etiqueta": "Vista del campo de estelas",
+          "url": "monumentos-img/MemoriaalosJudiosAsesinadosdeEuropa.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "nivel_titular": {
+      "nombre_monumento": "Sitio Histórico de la Isla Robben",
+      "pais": "Sudáfrica",
+      "ciudad": "Ciudad del Cabo",
+      "ano_inauguracion": 1999,
+      "descripcion_breve": "Antigua prisión donde estuvo encarcelado Nelson Mandela, hoy símbolo del triunfo de la democracia sobre el Apartheid.",
+      "foto_principal": "monumentos-img/Apartheid.jpg"
+    },
+    "cuerpo": {
+      "historia_construccion": "Utilizada como prisión política desde el siglo XVII y de máxima seguridad durante el régimen del Apartheid. Fue clausurada como cárcel en 1996 y convertida en museo nacional.",
+      "significado_arquitectonico": "Mantiene intacta la infraestructura penitenciaria austera y la cantera de cal donde los prisioneros realizaban trabajos forzados.",
+      "eventos_conmemorativos": [
+        "Día de Nelson Mandela (18 de julio)",
+        "Día de la Libertad de Sudáfrica (27 de abril)"
+      ]
+    },
+    "cita_inscripcion": {
+      "texto_original": "For to be free is not merely to cast off one's chains...",
+      "traduccion_espanol": "Ser libre no es solo liberarse de las propias cadenas, sino vivir de una forma que respete y mejore la libertad de los demás.",
+      "ubicacion_en_monumento": "Placa de entrada a la zona museística"
+    },
+    "datos_tecnicos": {
+      "arquitecto_escultor": [
+        "Departamento de Obras Públicas de Sudáfrica (Conservación)"
+      ],
+      "materiales": [
+        "Piedra de cantera",
+        "Hormigón",
+        "Rejas de acero"
+      ],
+      "ubicacion_geografica": {
+        "latitud": -33.8069,
+        "longitud": 18.3662,
+        "direccion": "Isla Robben, Table Bay, Ciudad del Cabo, Sudáfrica"
+      }
+    },
+    "potencial_grafico": {
+      "arquitectura": "Estructura penitenciaria austera de mediados del siglo XX rodeada por el océano.",
+      "fotografia_urbana": "Vista de la silueta de la Montaña de la Mesa desde la orilla de la isla.",
+      "mapas_interactivos": "Mapa náutico e interactivo de los puntos clave de la isla (celda de Mandela, cantera, muelle).",
+      "galeria_imagenes": [
+        {
+          "etiqueta": "Celda de Nelson Mandela",
+          "url": "monumentos-img/Apartheid.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "nivel_titular": {
+      "nombre_monumento": "Museo de la Memoria y los Derechos Humanos",
+      "pais": "Chile",
+      "ciudad": "Santiago",
+      "ano_inauguracion": 2010,
+      "descripcion_breve": "Espacio dedicado a visibilizar las violaciones a los derechos humanos cometidas durante la dictadura militar chilena (1973-1990).",
+      "foto_principal": "monumentos-img/museodelamemoriachile.jpg"
+    },
+    "cuerpo": {
+      "historia_construccion": "Inaugurado en 2010 como parte de las obras del Bicentenario de Chile para promover la reflexión sobre el valor de la democracia y el respeto a la dignidad humana.",
+      "significado_arquitectonico": "Un volumen rectangular de cobre y vidrio suspendido de forma traslúcida sobre una gran plaza abierta, simbolizando la transparencia y la luz sobre el pasado.",
+      "eventos_conmemorativos": [
+        "Día de la Conmemoración de las Víctimas de la Dictadura (11 de septiembre)",
+        "Día Internacional de los Derechos Humanos (10 de diciembre)"
+      ]
+    },
+    "cita_inscripcion": {
+      "texto_original": "Para que nunca más se repita",
+      "traduccion_espanol": "Para que nunca más se repita",
+      "ubicacion_en_monumento": "Muro de la plaza de la memoria"
+    },
+    "datos_tecnicos": {
+      "arquitecto_escultor": [
+        "Estudio Mario Figueroa, Lucas Fehr y Carlos Dias"
+      ],
+      "materiales": [
+        "Cobre",
+        "Vidrio",
+        "Acero",
+        "Hormigón visto"
+      ],
+      "ubicacion_geografica": {
+        "latitud": -33.4428,
+        "longitud": -70.6781,
+        "direccion": "Matucana 501, Santiago, Chile"
+      }
+    },
+    "potencial_grafico": {
+      "arquitectura": "Estructura suspendida de cobre con gran iluminación nocturna.",
+      "fotografia_urbana": "Tomas panorámicas de la explanada pública y la fachada metálica verde.",
+      "mapas_interactivos": "Guía interactiva por los tres niveles de exposición permanente.",
+      "galeria_imagenes": [
+        {
+          "etiqueta": "Fachada del Museo de la Memoria",
+          "url": "monumentos-img/museodelamemoriachile.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "nivel_titular": {
+      "nombre_monumento": "Monumento a la Reforma (Muro de los Reformadores)",
+      "pais": "Suiza",
+      "ciudad": "Ginebra",
+      "ano_inauguracion": 1909,
+      "descripcion_breve": "Muro monumental que conmemora la tolerancia, la libertad de conciencia y el movimiento de la Reforma en la cuna de las instituciones humanitarias.",
+      "foto_principal": "monumentos-img/MonumentoalaReforma.webp"
+    },
+    "cuerpo": {
+      "historia_construccion": "Construido en el Parque de los Bastiones para conmemorar el 400.º aniversario del nacimiento de Juan Calvino y la fundación de la Universidad de Ginebra.",
+      "significado_arquitectonico": "Un muro de piedra de 100 metros adosado a las antiguas murallas de la ciudad, con estatuas de gran tamaño de los principales líderes reformadores.",
+      "eventos_conmemorativos": [
+        "Fête de l'Escalade (diciembre)",
+        "Día de la Reforma (último domingo de octubre)"
+      ]
+    },
+    "cita_inscripcion": {
+      "texto_original": "Post Tenebras Lux",
+      "traduccion_espanol": "Tras las tinieblas, la luz",
+      "ubicacion_en_monumento": "Grabado central en el muro"
+    },
+    "datos_tecnicos": {
+      "arquitecto_escultor": [
+        "Henri Laverrière",
+        "Eugène Monod",
+        "Paul Landowski",
+        "Henri Bouchard"
+      ],
+      "materiales": [
+        "Piedra de cantera",
+        "Granito"
+      ],
+      "ubicacion_geografica": {
+        "latitud": 46.2003,
+        "longitud": 6.1456,
+        "direccion": "Parc des Bastions, 1204 Ginebra, Suiza"
+      }
+    },
+    "potencial_grafico": {
+      "arquitectura": "Esculturas de estilo neoclásico integradas al muro histórico del parque.",
+      "fotografia_urbana": "Tomas en primer plano de los relieves y las cuatro estatuas centrales.",
+      "mapas_interactivos": "Ubicación en el recorrido por el casco antiguo de Ginebra.",
+      "galeria_imagenes": [
+        {
+          "etiqueta": "Muro de los Reformadores",
+          "url": "monumentos-img/MonumentoalaReforma.webp"
+        }
+      ]
+    }
   }
 ]
