@@ -23,7 +23,11 @@
       "ubicacion_en_monumento": "Grabado en el cenotafio central"
     },
     "datos_tecnicos": {
-      "arquitecto_escultor": ["Kenzō Tange", "Takashi Asada", "Sachio Ōtani"],
+      "arquitecto_escultor": [
+        "Kenzō Tange",
+        "Takashi Asada",
+        "Sachio Ōtani"
+      ],
       "materiales": [
         "Hormigón armado",
         "Granito",
@@ -42,7 +46,7 @@
       "galeria_imagenes": [
         {
           "etiqueta": "Cúpula de la Bomba Atómica",
-          "url": "https://commons.wikimedia.org/wiki/File:Hiroshima_Peace_Memorial_Genbaku_Dome_01.jpg"
+          "url": "monumentos-img/20181111_Hiroshima_Memorial_Cenotaph-1.jpg"
         }
       ]
     }
@@ -71,8 +75,15 @@
       "ubicacion_en_monumento": "Grabado en caracteres Kanji sobre el bronce"
     },
     "datos_tecnicos": {
-      "arquitecto_escultor": ["Chiyoji Nakagawa", "Tadao Yoshida"],
-      "materiales": ["Bronce", "Madera de Hinoki", "Cobre"],
+      "arquitecto_escultor": [
+        "Chiyoji Nakagawa",
+        "Tadao Yoshida"
+      ],
+      "materiales": [
+        "Bronce",
+        "Madera de Hinoki",
+        "Cobre"
+      ],
       "ubicacion_geografica": {
         "latitud": 40.7489,
         "longitud": -73.968,
@@ -86,7 +97,7 @@
       "galeria_imagenes": [
         {
           "etiqueta": "Campana de la Paz de la ONU",
-          "url": "https://commons.wikimedia.org/wiki/File:UN_Peace_Bell_New_York.jpg"
+          "url": "monumentos-img/Campana-de-la-paz-Naciones-Unidas.jpg"
         }
       ]
     }
@@ -115,8 +126,14 @@
       "ubicacion_en_monumento": "Placa de bronce en la base"
     },
     "datos_tecnicos": {
-      "arquitecto_escultor": ["World Peace Flame Foundation"],
-      "materiales": ["Acero inoxidable", "Vidrio templado", "Granito noruego"],
+      "arquitecto_escultor": [
+        "World Peace Flame Foundation"
+      ],
+      "materiales": [
+        "Acero inoxidable",
+        "Vidrio templado",
+        "Granito noruego"
+      ],
       "ubicacion_geografica": {
         "latitud": 59.9111,
         "longitud": 10.7312,
@@ -130,7 +147,7 @@
       "galeria_imagenes": [
         {
           "etiqueta": "Llama de la Paz de Oslo",
-          "url": "https://commons.wikimedia.org/wiki/File:Oslo_Peace_Flame.jpg"
+          "url": "monumentos-img/LlamadelaPazdeOslo.jpg"
         }
       ]
     }
@@ -163,7 +180,11 @@
         "Estudio Baudizzone-Lestard-Varas",
         "Claudio Vekstein"
       ],
-      "materiales": ["Pórfido patagónico", "Hormigón visto", "Acero corten"],
+      "materiales": [
+        "Pórfido patagónico",
+        "Hormigón visto",
+        "Acero corten"
+      ],
       "ubicacion_geografica": {
         "latitud": -34.5411,
         "longitud": -58.4522,
@@ -177,7 +198,7 @@
       "galeria_imagenes": [
         {
           "etiqueta": "Muro del Monumento",
-          "url": "https://commons.wikimedia.org/wiki/File:Parque_de_la_Memoria_Buenos_Aires_Monumento.jpg"
+          "url": "monumentos-img/ParquedelaMemoriayMonumentoalasVíctimasdelTerrorismodeEstado.jpg"
         }
       ]
     }
@@ -206,7 +227,9 @@
       "ubicacion_en_monumento": "Inscripto en la plataforma de mármol negro"
     },
     "datos_tecnicos": {
-      "arquitecto_escultor": ["Vanu G. Bhuta"],
+      "arquitecto_escultor": [
+        "Vanu G. Bhuta"
+      ],
       "materiales": [
         "Mármol negro",
         "Llama de bronce",
@@ -225,7 +248,7 @@
       "galeria_imagenes": [
         {
           "etiqueta": "Plataforma de Raj Ghat",
-          "url": "https://commons.wikimedia.org/wiki/File:Raj_Ghat_Delhi_India.jpg"
+          "url": "monumentos-img/Gandhi_Memorial.jpg"
         }
       ]
     }
