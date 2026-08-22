@@ -1,0 +1,508 @@
+[
+  {
+    "id": 1,
+    "nivel_titular": {
+      "nombre_monumento": "Parque e Instalaciones del Memorial de la Paz de Hiroshima",
+      "pais": "Japón",
+      "ciudad": "Hiroshima",
+      "ano_inauguracion": 1954,
+      "descripcion_breve": "Espacio conmemorativo dedicado a las víctimas del ataque nuclear de 1945 y símbolo mundial de la lucha por el desarme nuclear.",
+      "foto_principal": "monumentos-img/20181111_Hiroshima_Memorial_Cenotaph-1.jpg"
+    },
+    "cuerpo": {
+      "historia_construccion": "Diseñado tras la destrucción atómica del 6 de agosto de 1945 en el distrito de Nakajima, el epicentro comercial devastado. La Ley de la Construcción de la Ciudad Conmemorativa de la Paz de 1949 destinó esta zona a la reflexión permanente.",
+      "significado_arquitectonico": "El plan maestro de Kenzō Tange integra un cenotafio central en forma de arco 'haniwa' alineado visualmente con la Llama de la Paz y la Cúpula Genbaku.",
+      "eventos_conmemorativos": [
+        "Ceremonia Conmemorativa de la Paz de Hiroshima (6 de agosto)",
+        "Suelta de linternas flotantes (Tōrō Nagashi) en el río Motoyasu"
+      ]
+    },
+    "cita_inscripcion": {
+      "texto_original": "安らかに眠って下さい 過ちは 繰返しませぬから",
+      "traduccion_espanol": "Descansen en paz, pues el error no se repetirá.",
+      "ubicacion_en_monumento": "Grabado en el cenotafio central"
+    },
+    "datos_tecnicos": {
+      "arquitecto_escultor": [
+        "Kenzō Tange",
+        "Takashi Asada",
+        "Sachio Ōtani"
+      ],
+      "materiales": [
+        "Hormigón armado",
+        "Granito",
+        "Estructura de acero expuesta"
+      ],
+      "ubicacion_geografica": {
+        "latitud": 34.3927,
+        "longitud": 132.4525,
+        "direccion": "1-2 Nakajimacho, Naka Ward, Hiroshima, Japón"
+      }
+    },
+    "potencial_grafico": {
+      "arquitectura": "Eje simétrico de diseño modernista brutalista alineado con las ruinas de la Cúpula.",
+      "fotografia_urbana": "Contraste entre las ruinas de la cúpula y el parque de cerezos a orillas del río.",
+      "mapas_interactivos": "Puntos de interés vinculados: Cenotafio, Cúpula, Estatua de Sadako Sasaki y Museo.",
+      "galeria_imagenes": [
+        {
+          "etiqueta": "Cúpula de la Bomba Atómica",
+          "url": "monumentos-img/20181111_Hiroshima_Memorial_Cenotaph-1.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "nivel_titular": {
+      "nombre_monumento": "Campana de la Paz de las Naciones Unidas",
+      "pais": "Estados Unidos",
+      "ciudad": "Nueva York",
+      "ano_inauguracion": 1954,
+      "descripcion_breve": "Símbolo donado por Japón fundido con monedas de más de 60 países para recordar la aspiración global a la no violencia.",
+      "foto_principal": "monumentos-img/Campana-de-la-paz-Naciones-Unidas.jpg"
+    },
+    "cuerpo": {
+      "historia_construccion": "Impulsada por Chiyoji Nakagawa y la Asociación de las Naciones Unidas de Japón, fue regalada a la ONU en junio de 1954 como un llamado a la fraternidad tras la Segunda Guerra Mundial.",
+      "significado_arquitectonico": "Estructura de madera de ciprés japonés (hinoki) de estilo Shinto que protege la campana de bronce. Las monedas recolectadas incluyen aportes de niños de todo el mundo.",
+      "eventos_conmemorativos": [
+        "Día Internacional de la Paz (21 de septiembre)",
+        "Día de la Tierra (equinoccio de primavera)"
+      ]
+    },
+    "cita_inscripcion": {
+      "texto_original": "世界絶対平和萬歳",
+      "traduccion_espanol": "Viva la paz absoluta en el mundo.",
+      "ubicacion_en_monumento": "Grabado en caracteres Kanji sobre el bronce"
+    },
+    "datos_tecnicos": {
+      "arquitecto_escultor": [
+        "Chiyoji Nakagawa",
+        "Tadao Yoshida"
+      ],
+      "materiales": [
+        "Bronce",
+        "Madera de Hinoki",
+        "Cobre"
+      ],
+      "ubicacion_geografica": {
+        "latitud": 40.7489,
+        "longitud": -73.968,
+        "direccion": "Sede de las Naciones Unidas, 1st Ave & E 46th St, Nueva York, EE. UU."
+      }
+    },
+    "potencial_grafico": {
+      "arquitectura": "Diseño Shinto tradicional rodeado por el paisaje urbano del complejo de la ONU.",
+      "fotografia_urbana": "Encuadre de la estructura de madera con los rascacielos de Manhattan al fondo.",
+      "mapas_interactivos": "Punto de interés en el recorrido exterior de la sede de la ONU.",
+      "galeria_imagenes": [
+        {
+          "etiqueta": "Campana de la Paz de la ONU",
+          "url": "monumentos-img/Campana-de-la-paz-Naciones-Unidas.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "nivel_titular": {
+      "nombre_monumento": "Llama de la Paz de Oslo",
+      "pais": "Noruega",
+      "ciudad": "Oslo",
+      "ano_inauguracion": 2000,
+      "descripcion_breve": "Llama permanente encendida a partir de fuegos de los cinco continentes para promover el compromiso permanente con la paz.",
+      "foto_principal": "monumentos-img/LlamadelaPazdeOslo.jpg"
+    },
+    "cuerpo": {
+      "historia_construccion": "Iniciativa de la World Peace Flame Foundation encendida en el muelle de Oslo junto al Ayuntamiento para resaltar el papel de la ciudad en la mediación internacional y el Premio Nobel.",
+      "significado_arquitectonico": "Estructura metálica y de cristal minimalista diseñada bajo la estética nórdica que alberga un fuego protegido del clima exterior.",
+      "eventos_conmemorativos": [
+        "Ceremonia del Premio Nobel de la Paz (10 de diciembre)",
+        "Marchas de antorchas por los Derechos Humanos"
+      ]
+    },
+    "cita_inscripcion": {
+      "texto_original": "Må freden herske på jorden",
+      "traduccion_espanol": "Que la paz prevalezca en la Tierra.",
+      "ubicacion_en_monumento": "Placa de bronce en la base"
+    },
+    "datos_tecnicos": {
+      "arquitecto_escultor": [
+        "World Peace Flame Foundation"
+      ],
+      "materiales": [
+        "Acero inoxidable",
+        "Vidrio templado",
+        "Granito noruego"
+      ],
+      "ubicacion_geografica": {
+        "latitud": 59.9111,
+        "longitud": 10.7312,
+        "direccion": "Rådhusplassen, Oslo, Noruega"
+      }
+    },
+    "potencial_grafico": {
+      "arquitectura": "Estilo nórdico contemporáneo integrado al puerto de la ciudad.",
+      "fotografia_urbana": "Tomas nocturnas del fuego reflejado en el fiordo de Oslo.",
+      "mapas_interactivos": "Ubicación clave dentro del circuito del Centro Nobel de la Paz.",
+      "galeria_imagenes": [
+        {
+          "etiqueta": "Llama de la Paz de Oslo",
+          "url": "monumentos-img/LlamadelaPazdeOslo.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "nivel_titular": {
+      "nombre_monumento": "Parque de la Memoria y Monumento a las Víctimas del Terrorismo de Estado",
+      "pais": "Argentina",
+      "ciudad": "Buenos Aires",
+      "ano_inauguracion": 2007,
+      "descripcion_breve": "Espacio público a orillas del Río de la Plata destinado a la memoria de las víctimas de la dictadura cívico-militar.",
+      "foto_principal": "monumentos-img/ParquedelaMemoriayMonumentoalasVíctimasdelTerrorismodeEstado.jpg"
+    },
+    "cuerpo": {
+      "historia_construccion": "Impulsado por organismos de derechos humanos y la Ciudad de Buenos Aires a fines de los años 90 para recordar a las personas desaparecidas y asesinadas entre 1976 y 1983.",
+      "significado_arquitectonico": "Un muro rampa de piedra en zigzag simula una herida que se abre paso hacia el agua, con placas de pórfido que contienen miles de nombres por orden cronológico.",
+      "eventos_conmemorativos": [
+        "Día Nacional de la Memoria por la Verdad y la Justicia (24 de marzo)",
+        "Ofrendas florales al Río de la Plata"
+      ]
+    },
+    "cita_inscripcion": {
+      "texto_original": "Monumento a las Víctimas del Terrorismo de Estado - Memoria, Verdad y Justicia",
+      "traduccion_espanol": "Monumento a las Víctimas del Terrorismo de Estado - Memoria, Verdad y Justicia",
+      "ubicacion_en_monumento": "Muro de acceso al parque"
+    },
+    "datos_tecnicos": {
+      "arquitecto_escultor": [
+        "Estudio Baudizzone-Lestard-Varas",
+        "Claudio Vekstein"
+      ],
+      "materiales": [
+        "Pórfido patagónico",
+        "Hormigón visto",
+        "Acero corten"
+      ],
+      "ubicacion_geografica": {
+        "latitud": -34.5411,
+        "longitud": -58.4522,
+        "direccion": "Av. Costanera Norte Rafael Obligado 6745, Buenos Aires, Argentina"
+      }
+    },
+    "potencial_grafico": {
+      "arquitectura": "Muro escultórico integrado al paisaje del río con recorrido en rampa.",
+      "fotografia_urbana": "Tomas panorámicas del muro extendiéndose hacia la costa.",
+      "mapas_interactivos": "Ruta de esculturas al aire libre e información del muro de nombres.",
+      "galeria_imagenes": [
+        {
+          "etiqueta": "Muro del Monumento",
+          "url": "monumentos-img/ParquedelaMemoriayMonumentoalasVíctimasdelTerrorismodeEstado.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "nivel_titular": {
+      "nombre_monumento": "Raj Ghat (Memorial a Mahatma Gandhi)",
+      "pais": "India",
+      "ciudad": "Nueva Delhi",
+      "ano_inauguracion": 1948,
+      "descripcion_breve": "Memorial dedicado a Mahatma Gandhi, líder de la independencia india y promotor universal de la no violencia (Ahimsa).",
+      "foto_principal": "monumentos-img/Gandhi_Memorial.jpg"
+    },
+    "cuerpo": {
+      "historia_construccion": "Ubicado en el lugar donde Gandhi fue incinerado el 31 de enero de 1948, el área se transformó en un parque cenotafio que recibe a líderes de todo el mundo.",
+      "significado_arquitectonico": "Una plataforma cuadrada de mármol negro a cielo abierto que sostiene una llama eterna, rodeada de jardines serenos para reflejar la simplicidad de la vida de Gandhi.",
+      "eventos_conmemorativos": [
+        "Gandhi Jayanti (2 de octubre, Día Internacional de la No Violencia)",
+        "Martyrs' Day (30 de enero)"
+      ]
+    },
+    "cita_inscripcion": {
+      "texto_original": "हे राम",
+      "traduccion_espanol": "¡Oh, Dios! (He Ram - últimas palabras atribuídas a Gandhi)",
+      "ubicacion_en_monumento": "Inscripto en la plataforma de mármol negro"
+    },
+    "datos_tecnicos": {
+      "arquitecto_escultor": [
+        "Vanu G. Bhuta"
+      ],
+      "materiales": [
+        "Mármol negro",
+        "Llama de bronce",
+        "Jardines de césped y piedra"
+      ],
+      "ubicacion_geografica": {
+        "latitud": 28.6406,
+        "longitud": 77.2495,
+        "direccion": "Ring Rd, Velodrome Road, Nueva Delhi, India"
+      }
+    },
+    "potencial_grafico": {
+      "arquitectura": "Diseño sobrio de mármol enmarcados por murallas de piedra y amplios céspedes.",
+      "fotografia_urbana": "Detalle de la llama eterna ardiendo sobre el mármol negro con arreglos florales.",
+      "mapas_interactivos": "Visualización del complejo de memoriales nacionales a orillas del río Yamuna.",
+      "galeria_imagenes": [
+        {
+          "etiqueta": "Plataforma de Raj Ghat",
+          "url": "monumentos-img/Gandhi_Memorial.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "nivel_titular": {
+      "nombre_monumento": "Memorial del Genocidio de Kigali",
+      "pais": "Ruanda",
+      "ciudad": "Kigali",
+      "ano_inauguracion": 2004,
+      "descripcion_breve": "Lugar de descanso final para más de 250.000 víctimas del genocidio de 1994 y centro de educación para la prevención de futuros conflictos.",
+      "foto_principal": "monumentos-img/MemorialdelGenocidiodeKigali.jpg"
+    },
+    "cuerpo": {
+      "historia_construccion": "Construido en el 10.º aniversario del genocidio contra los tutsis en 1994, el sitio se estableció para ofrecer un entierro digno a las víctimas y promover la reconciliación nacional.",
+      "significado_arquitectonico": "Comprende fosas comunes rodeadas de jardines del recuerdo, un muro con los nombres de los fallecidos y una llama permanente de la memoria.",
+      "eventos_conmemorativos": [
+        "Kwibuka - Día del Recuerdo del Genocidio (7 de abril)",
+        "Jornadas educativas sobre paz y prevención de la violencia"
+      ]
+    },
+    "cita_inscripcion": {
+      "texto_original": "Never Again",
+      "traduccion_espanol": "Nunca más",
+      "ubicacion_en_monumento": "Placa conmemorativa en la entrada del memorial"
+    },
+    "datos_tecnicos": {
+      "arquitecto_escultor": [
+        "Aegis Trust",
+        "Ayuntamiento de Kigali"
+      ],
+      "materiales": [
+        "Piedra local",
+        "Hormigón",
+        "Granito"
+      ],
+      "ubicacion_geografica": {
+        "latitud": -1.9306,
+        "longitud": 30.0606,
+        "direccion": "KG 14 Ave, Kigali, Ruanda"
+      }
+    },
+    "potencial_grafico": {
+      "arquitectura": "Jardines amurallados con terrazas de piedra y fosas comunes integradas al paisaje.",
+      "fotografia_urbana": "Tomas de la llama de la memoria con la vista de las colinas de Kigali.",
+      "mapas_interactivos": "Recorrido por las distintas secciones del museo y jardines de meditación.",
+      "galeria_imagenes": [
+        {
+          "etiqueta": "Entrada principal del Memorial",
+          "url": "monumentos-img/MemorialdelGenocidiodeKigali.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "nivel_titular": {
+      "nombre_monumento": "Memorial a los Judíos Asesinados de Europa",
+      "pais": "Alemania",
+      "ciudad": "Berlín",
+      "ano_inauguracion": 2005,
+      "descripcion_breve": "Campo de bloques de hormigón diseñado para generar una experiencia de desorientación y reflexión sobre el Holocausto.",
+      "foto_principal": "monumentos-img/MemoriaalosJudiosAsesinadosdeEuropa.jpg"
+    },
+    "cuerpo": {
+      "historia_construccion": "Aprobado por el Parlamento alemán en 1999 tras años de debate público sobre cómo recordar el Holocausto en el centro de la reunificada Berlín.",
+      "significado_arquitectonico": "Consta de 2.711 losas de hormigón (estelas) de diferentes alturas dispuestas en una cuadrícula ondulante sobre un terreno irregular.",
+      "eventos_conmemorativos": [
+        "Día Internacional de Conmemoración del Holocausto (27 de enero)",
+        "Actos oficiales del gobierno federal alemán"
+      ]
+    },
+    "cita_inscripcion": {
+      "texto_original": "Es ist geschehen, folglich kann es wieder geschehen...",
+      "traduccion_espanol": "Ocurrió, por lo tanto, puede volver a ocurrir... (Primo Levi)",
+      "ubicacion_en_monumento": "Centro de Información subterráneo"
+    },
+    "datos_tecnicos": {
+      "arquitecto_escultor": [
+        "Peter Eisenman"
+      ],
+      "materiales": [
+        "Hormigón armado con revestimiento anti-grafiti"
+      ],
+      "ubicacion_geografica": {
+        "latitud": 52.5163,
+        "longitud": 13.3777,
+        "direccion": "Cora-Berliner-Straße 1, 10117 Berlín, Alemania"
+      }
+    },
+    "potencial_grafico": {
+      "arquitectura": "Diseño abstracto y repetitivo que crea patrones de sombras según la hora del día.",
+      "fotografia_urbana": "Perspectivas profundas desde los pasillos estrechos entre estelas.",
+      "mapas_interactivos": "Plano interactivo del laberinto de estelas y la ubicación del museo subterráneo.",
+      "galeria_imagenes": [
+        {
+          "etiqueta": "Vista del campo de estelas",
+          "url": "monumentos-img/MemoriaalosJudiosAsesinadosdeEuropa.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "nivel_titular": {
+      "nombre_monumento": "Sitio Histórico de la Isla Robben",
+      "pais": "Sudáfrica",
+      "ciudad": "Ciudad del Cabo",
+      "ano_inauguracion": 1999,
+      "descripcion_breve": "Antigua prisión donde estuvo encarcelado Nelson Mandela, hoy símbolo del triunfo de la democracia sobre el Apartheid.",
+      "foto_principal": "monumentos-img/Apartheid.jpg"
+    },
+    "cuerpo": {
+      "historia_construccion": "Utilizada como prisión política desde el siglo XVII y de máxima seguridad durante el régimen del Apartheid. Fue clausurada como cárcel en 1996 y convertida en museo nacional.",
+      "significado_arquitectonico": "Mantiene intacta la infraestructura penitenciaria austera y la cantera de cal donde los prisioneros realizaban trabajos forzados.",
+      "eventos_conmemorativos": [
+        "Día de Nelson Mandela (18 de julio)",
+        "Día de la Libertad de Sudáfrica (27 de abril)"
+      ]
+    },
+    "cita_inscripcion": {
+      "texto_original": "For to be free is not merely to cast off one's chains...",
+      "traduccion_espanol": "Ser libre no es solo liberarse de las propias cadenas, sino vivir de una forma que respete y mejore la libertad de los demás.",
+      "ubicacion_en_monumento": "Placa de entrada a la zona museística"
+    },
+    "datos_tecnicos": {
+      "arquitecto_escultor": [
+        "Departamento de Obras Públicas de Sudáfrica (Conservación)"
+      ],
+      "materiales": [
+        "Piedra de cantera",
+        "Hormigón",
+        "Rejas de acero"
+      ],
+      "ubicacion_geografica": {
+        "latitud": -33.8069,
+        "longitud": 18.3662,
+        "direccion": "Isla Robben, Table Bay, Ciudad del Cabo, Sudáfrica"
+      }
+    },
+    "potencial_grafico": {
+      "arquitectura": "Estructura penitenciaria austera de mediados del siglo XX rodeada por el océano.",
+      "fotografia_urbana": "Vista de la silueta de la Montaña de la Mesa desde la orilla de la isla.",
+      "mapas_interactivos": "Mapa náutico e interactivo de los puntos clave de la isla (celda de Mandela, cantera, muelle).",
+      "galeria_imagenes": [
+        {
+          "etiqueta": "Celda de Nelson Mandela",
+          "url": "monumentos-img/Apartheid.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "nivel_titular": {
+      "nombre_monumento": "Museo de la Memoria y los Derechos Humanos",
+      "pais": "Chile",
+      "ciudad": "Santiago",
+      "ano_inauguracion": 2010,
+      "descripcion_breve": "Espacio dedicado a visibilizar las violaciones a los derechos humanos cometidas durante la dictadura militar chilena (1973-1990).",
+      "foto_principal": "monumentos-img/museodelamemoriachile.jpg"
+    },
+    "cuerpo": {
+      "historia_construccion": "Inaugurado en 2010 como parte de las obras del Bicentenario de Chile para promover la reflexión sobre el valor de la democracia y el respeto a la dignidad humana.",
+      "significado_arquitectonico": "Un volumen rectangular de cobre y vidrio suspendido de forma traslúcida sobre una gran plaza abierta, simbolizando la transparencia y la luz sobre el pasado.",
+      "eventos_conmemorativos": [
+        "Día de la Conmemoración de las Víctimas de la Dictadura (11 de septiembre)",
+        "Día Internacional de los Derechos Humanos (10 de diciembre)"
+      ]
+    },
+    "cita_inscripcion": {
+      "texto_original": "Para que nunca más se repita",
+      "traduccion_espanol": "Para que nunca más se repita",
+      "ubicacion_en_monumento": "Muro de la plaza de la memoria"
+    },
+    "datos_tecnicos": {
+      "arquitecto_escultor": [
+        "Estudio Mario Figueroa, Lucas Fehr y Carlos Dias"
+      ],
+      "materiales": [
+        "Cobre",
+        "Vidrio",
+        "Acero",
+        "Hormigón visto"
+      ],
+      "ubicacion_geografica": {
+        "latitud": -33.4428,
+        "longitud": -70.6781,
+        "direccion": "Matucana 501, Santiago, Chile"
+      }
+    },
+    "potencial_grafico": {
+      "arquitectura": "Estructura suspendida de cobre con gran iluminación nocturna.",
+      "fotografia_urbana": "Tomas panorámicas de la explanada pública y la fachada metálica verde.",
+      "mapas_interactivos": "Guía interactiva por los tres niveles de exposición permanente.",
+      "galeria_imagenes": [
+        {
+          "etiqueta": "Fachada del Museo de la Memoria",
+          "url": "monumentos-img/museodelamemoriachile.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "nivel_titular": {
+      "nombre_monumento": "Monumento a la Reforma (Muro de los Reformadores)",
+      "pais": "Suiza",
+      "ciudad": "Ginebra",
+      "ano_inauguracion": 1909,
+      "descripcion_breve": "Muro monumental que conmemora la tolerancia, la libertad de conciencia y el movimiento de la Reforma en la cuna de las instituciones humanitarias.",
+      "foto_principal": "monumentos-img/MonumentoalaReforma.webp"
+    },
+    "cuerpo": {
+      "historia_construccion": "Construido en el Parque de los Bastiones para conmemorar el 400.º aniversario del nacimiento de Juan Calvino y la fundación de la Universidad de Ginebra.",
+      "significado_arquitectonico": "Un muro de piedra de 100 metros adosado a las antiguas murallas de la ciudad, con estatuas de gran tamaño de los principales líderes reformadores.",
+      "eventos_conmemorativos": [
+        "Fête de l'Escalade (diciembre)",
+        "Día de la Reforma (último domingo de octubre)"
+      ]
+    },
+    "cita_inscripcion": {
+      "texto_original": "Post Tenebras Lux",
+      "traduccion_espanol": "Tras las tinieblas, la luz",
+      "ubicacion_en_monumento": "Grabado central en el muro"
+    },
+    "datos_tecnicos": {
+      "arquitecto_escultor": [
+        "Henri Laverrière",
+        "Eugène Monod",
+        "Paul Landowski",
+        "Henri Bouchard"
+      ],
+      "materiales": [
+        "Piedra de cantera",
+        "Granito"
+      ],
+      "ubicacion_geografica": {
+        "latitud": 46.2003,
+        "longitud": 6.1456,
+        "direccion": "Parc des Bastions, 1204 Ginebra, Suiza"
+      }
+    },
+    "potencial_grafico": {
+      "arquitectura": "Esculturas de estilo neoclásico integradas al muro histórico del parque.",
+      "fotografia_urbana": "Tomas en primer plano de los relieves y las cuatro estatuas centrales.",
+      "mapas_interactivos": "Ubicación en el recorrido por el casco antiguo de Ginebra.",
+      "galeria_imagenes": [
+        {
+          "etiqueta": "Muro de los Reformadores",
+          "url": "monumentos-img/MonumentoalaReforma.webp"
+        }
+      ]
+    }
+  }
+]
