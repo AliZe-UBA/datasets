@@ -7,7 +7,7 @@
       "estilo_artistico": "Cubismo / Expresionismo",
       "ano_creacion": 1937,
       "descripcion_breve": "Monumental lienzo que retrata el horror del bombardeo a la villa vasca de Guernica, convertido en el símbolo universal contra la crueldad de la guerra.",
-      "foto_principal": "obras-img/guernica-picasso.webp"
+      "foto_principal": "https://raw.githubusercontent.com/AliZe-UBA/datasets/refs/heads/main/datasets/obras-img/obras-img/guernica-picasso.webp"
     },
     "cuerpo": {
       "contexto_historico": "Encargado por el gobierno de la Segunda República Española para el Pabellón Español de la Exposición Internacional de París de 1937, tras el devastador ataque aéreo nazi e italiano sobre la población civil de Guernica.",
@@ -19,11 +19,11 @@
       "ubicacion_actual_o_origen": "Museo Nacional Centro de Arte Reina Sofía, Madrid, España"
     },
     "multimedia": {
-      "imagen_alta_resolucion": "obras-img/guernica-picasso.webp",
+      "imagen_alta_resolucion": "https://raw.githubusercontent.com/AliZe-UBA/datasets/refs/heads/main/datasets/obras-img/obras-img/guernica-picasso.webp",
       "bocetos_o_detalles": [
         {
           "etiqueta": "Estudio para la madre con hijo muerto",
-          "url": "obras-img/guernica-picasso.webp"
+          "url": "https://raw.githubusercontent.com/AliZe-UBA/datasets/refs/heads/main/datasets/obras-img/obras-img/guernica-picasso.webp"
         }
       ]
     }
@@ -36,7 +36,7 @@
       "estilo_artistico": "Arte Urbano / Grafiti",
       "ano_creacion": 1990,
       "descripcion_breve": "Icónico mural que recrea el beso fraternal entre los líderes comunistas Leonid Brézhnev y Erich Honecker sobre los restos del Muro de Berlín.",
-      "foto_principal": "obras-img/elbeso-vrubel.jpg"
+      "foto_principal": "https://raw.githubusercontent.com/AliZe-UBA/datasets/refs/heads/main/datasets/obras-img/obras-img/elbeso-vrubel.jpg"
     },
     "cuerpo": {
       "contexto_historico": "Pintado poco después de la caída del Muro de Berlín en 1989 sobre la sección más larga que quedó en pie, conocida como la East Side Gallery, simbolizando la apertura y el fin de la Guerra Fría.",
@@ -48,11 +48,11 @@
       "ubicacion_actual_o_origen": "East Side Gallery, Muro de Berlín, Alemania"
     },
     "multimedia": {
-      "imagen_alta_resolucion": "obras-img/elbeso-vrubel.jpg",
+      "imagen_alta_resolucion": "https://raw.githubusercontent.com/AliZe-UBA/datasets/refs/heads/main/datasets/obras-img/obras-img/elbeso-vrubel.jpg",
       "bocetos_o_detalles": [
         {
           "etiqueta": "Detalle del texto inscripto en la base",
-          "url": "obras-img/elbeso-vrubel.jpg"
+          "url": "https://raw.githubusercontent.com/AliZe-UBA/datasets/refs/heads/main/datasets/obras-img/obras-img/elbeso-vrubel.jpg"
         }
       ]
     }
@@ -65,7 +65,7 @@
       "estilo_artistico": "Arte Urbano / Stencil",
       "ano_creacion": 2005,
       "descripcion_breve": "Mural que muestra una paloma de la paz con un chaleco antibalas y una diana roja apuntando directamente a su pecho.",
-      "foto_principal": "obras-img/paloma-bansky.jpg"
+      "foto_principal": "https://raw.githubusercontent.com/AliZe-UBA/datasets/refs/heads/main/datasets/obras-img/obras-img/paloma-bansky.jpg"
     },
     "cuerpo": {
       "contexto_historico": "Realizado durante una incursión del artista callejero británico Banksy en los muros y edificios de la ciudad de Belén, en Cisjordania, en el contexto del conflicto israelí-palestino.",
@@ -77,11 +77,11 @@
       "ubicacion_actual_o_origen": "Muro en una edificación de Belén, Palestina"
     },
     "multimedia": {
-      "imagen_alta_resolucion": "obras-img/paloma-bansky.jpg",
+      "imagen_alta_resolucion": "https://raw.githubusercontent.com/AliZe-UBA/datasets/refs/heads/main/datasets/obras-img/obras-img/paloma-bansky.jpg",
       "bocetos_o_detalles": [
         {
           "etiqueta": "Detalle del chaleco y la mira telescópica",
-          "url": "obras-img/paloma-bansky.jpg"
+          "url": "https://raw.githubusercontent.com/AliZe-UBA/datasets/refs/heads/main/datasets/obras-img/obras-img/paloma-bansky.jpg"
         }
       ]
     }
