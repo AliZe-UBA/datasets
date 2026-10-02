@@ -7,7 +7,7 @@
       "estilo_artistico": "Cubismo / Expresionismo",
       "ano_creacion": 1937,
       "descripcion_breve": "Monumental lienzo que retrata el horror del bombardeo a la villa vasca de Guernica, convertido en el símbolo universal contra la crueldad de la guerra.",
-      "foto_principal": "https://raw.githubusercontent.com/AliZe-UBA/datasets/refs/heads/main/datasets/obras-img/obras-img/guernica-picasso.webp"
+      "foto_principal": "https://raw.githubusercontent.com/AliZe-UBA/datasets/refs/heads/main/datasets/obras-img/guernica-picasso.webp"
     },
     "cuerpo": {
       "contexto_historico": "Encargado por el gobierno de la Segunda República Española para el Pabellón Español de la Exposición Internacional de París de 1937, tras el devastador ataque aéreo nazi e italiano sobre la población civil de Guernica.",
@@ -19,15 +19,15 @@
       "ubicacion_actual_o_origen": "Museo Nacional Centro de Arte Reina Sofía, Madrid, España"
     },
     "multimedia": {
-      "imagen_alta_resolucion": "https://raw.githubusercontent.com/AliZe-UBA/datasets/refs/heads/main/datasets/obras-img/obras-img/guernica-picasso.webp",
+      "imagen_alta_resolucion": "https://raw.githubusercontent.com/AliZe-UBA/datasets/refs/heads/main/datasets/obras-img/guernica-picasso.webp",
       "bocetos_o_detalles": [
         {
           "etiqueta": "Estudio para la madre con hijo muerto",
-          "url": "https://raw.githubusercontent.com/AliZe-UBA/datasets/refs/heads/main/datasets/obras-img/obras-img/guernica-picasso.webp"
+          "url": "https://raw.githubusercontent.com/AliZe-UBA/datasets/refs/heads/main/datasets/obras-img/guernica-picasso.webp"
         }
       ]
     }
-  },
+  }/*,
   {
     "id": 2,
     "nivel_titular": {
@@ -287,6 +287,6 @@
           "url": "obras-img/non-violence.jpg"
         }
       ]
-    }
+    }*/
   }
 ]
