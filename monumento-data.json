@@ -7,7 +7,7 @@
       "ciudad": "Hiroshima",
       "ano_inauguracion": 1954,
       "descripcion_breve": "Espacio conmemorativo dedicado a las víctimas del ataque nuclear de 1945 y símbolo mundial de la lucha por el desarme nuclear.",
-      "foto_principal": "monumentos-img/20181111_Hiroshima_Memorial_Cenotaph-1.jpg"
+      "foto_principal": "https://raw.githubusercontent.com/AliZe-UBA/datasets/refs/heads/main/datasets/monumentos-img/20181111_Hiroshima_Memorial_Cenotaph-1.jpg"
     },
     "cuerpo": {
       "historia_construccion": "Diseñado tras la destrucción atómica del 6 de agosto de 1945 en el distrito de Nakajima, el epicentro comercial devastado. La Ley de la Construcción de la Ciudad Conmemorativa de la Paz de 1949 destinó esta zona a la reflexión permanente.",
@@ -46,7 +46,7 @@
       "galeria_imagenes": [
         {
           "etiqueta": "Cúpula de la Bomba Atómica",
-          "url": "monumentos-img/20181111_Hiroshima_Memorial_Cenotaph-1.jpg"
+          "url": "https://raw.githubusercontent.com/AliZe-UBA/datasets/refs/heads/main/datasets/monumentos-img/20181111_Hiroshima_Memorial_Cenotaph-1.jpg"
         }
       ]
     }
@@ -59,7 +59,7 @@
       "ciudad": "Nueva York",
       "ano_inauguracion": 1954,
       "descripcion_breve": "Símbolo donado por Japón fundido con monedas de más de 60 países para recordar la aspiración global a la no violencia.",
-      "foto_principal": "monumentos-img/Campana-de-la-paz-Naciones-Unidas.jpg"
+      "foto_principal": "https://raw.githubusercontent.com/AliZe-UBA/datasets/refs/heads/main/datasets/monumentos-img/Campana-de-la-paz-Naciones-Unidas.jpg"
     },
     "cuerpo": {
       "historia_construccion": "Impulsada por Chiyoji Nakagawa y la Asociación de las Naciones Unidas de Japón, fue regalada a la ONU en junio de 1954 como un llamado a la fraternidad tras la Segunda Guerra Mundial.",
@@ -147,7 +147,7 @@
       "galeria_imagenes": [
         {
           "etiqueta": "Llama de la Paz de Oslo",
-          "url": "monumentos-img/LlamadelaPazdeOslo.jpg"
+          "url": "https://raw.githubusercontent.com/AliZe-UBA/datasets/refs/heads/main/datasets/monumentos-img/LlamadelaPazdeOslo.jpg"
         }
       ]
     }
@@ -160,7 +160,7 @@
       "ciudad": "Buenos Aires",
       "ano_inauguracion": 2007,
       "descripcion_breve": "Espacio público a orillas del Río de la Plata destinado a la memoria de las víctimas de la dictadura cívico-militar.",
-      "foto_principal": "monumentos-img/ParquedelaMemoriayMonumentoalasVíctimasdelTerrorismodeEstado.jpg"
+      "foto_principal": "https://raw.githubusercontent.com/AliZe-UBA/datasets/refs/heads/main/datasets/monumentos-img/ParquedelaMemoriayMonumentoalasVíctimasdelTerrorismodeEstado.jpg"
     },
     "cuerpo": {
       "historia_construccion": "Impulsado por organismos de derechos humanos y la Ciudad de Buenos Aires a fines de los años 90 para recordar a las personas desaparecidas y asesinadas entre 1976 y 1983.",
@@ -198,7 +198,7 @@
       "galeria_imagenes": [
         {
           "etiqueta": "Muro del Monumento",
-          "url": "monumentos-img/ParquedelaMemoriayMonumentoalasVíctimasdelTerrorismodeEstado.jpg"
+          "url": "https://raw.githubusercontent.com/AliZe-UBA/datasets/refs/heads/main/datasets/monumentos-img/ParquedelaMemoriayMonumentoalasVíctimasdelTerrorismodeEstado.jpg"
         }
       ]
     }
@@ -211,7 +211,7 @@
       "ciudad": "Nueva Delhi",
       "ano_inauguracion": 1948,
       "descripcion_breve": "Memorial dedicado a Mahatma Gandhi, líder de la independencia india y promotor universal de la no violencia (Ahimsa).",
-      "foto_principal": "monumentos-img/Gandhi_Memorial.jpg"
+      "foto_principal": "https://raw.githubusercontent.com/AliZe-UBA/datasets/refs/heads/main/datasets/monumentos-img/Gandhi_Memorial.jpg"
     },
     "cuerpo": {
       "historia_construccion": "Ubicado en el lugar donde Gandhi fue incinerado el 31 de enero de 1948, el área se transformó en un parque cenotafio que recibe a líderes de todo el mundo.",
@@ -248,7 +248,7 @@
       "galeria_imagenes": [
         {
           "etiqueta": "Plataforma de Raj Ghat",
-          "url": "monumentos-img/Gandhi_Memorial.jpg"
+          "url": "https://raw.githubusercontent.com/AliZe-UBA/datasets/refs/heads/main/datasets/monumentos-img/Gandhi_Memorial.jpg"
         }
       ]
     }
@@ -261,7 +261,7 @@
       "ciudad": "Kigali",
       "ano_inauguracion": 2004,
       "descripcion_breve": "Lugar de descanso final para más de 250.000 víctimas del genocidio de 1994 y centro de educación para la prevención de futuros conflictos.",
-      "foto_principal": "monumentos-img/MemorialdelGenocidiodeKigali.jpg"
+      "foto_principal": "https://raw.githubusercontent.com/AliZe-UBA/datasets/refs/heads/main/datasets/monumentos-img/MemorialdelGenocidiodeKigali.jpg"
     },
     "cuerpo": {
       "historia_construccion": "Construido en el 10.º aniversario del genocidio contra los tutsis en 1994, el sitio se estableció para ofrecer un entierro digno a las víctimas y promover la reconciliación nacional.",
@@ -299,7 +299,7 @@
       "galeria_imagenes": [
         {
           "etiqueta": "Entrada principal del Memorial",
-          "url": "monumentos-img/MemorialdelGenocidiodeKigali.jpg"
+          "url": "https://raw.githubusercontent.com/AliZe-UBA/datasets/refs/heads/main/datasets/monumentos-img/MemorialdelGenocidiodeKigali.jpg"
         }
       ]
     }
@@ -312,7 +312,7 @@
       "ciudad": "Berlín",
       "ano_inauguracion": 2005,
       "descripcion_breve": "Campo de bloques de hormigón diseñado para generar una experiencia de desorientación y reflexión sobre el Holocausto.",
-      "foto_principal": "monumentos-img/MemoriaalosJudiosAsesinadosdeEuropa.jpg"
+      "foto_principal": "https://raw.githubusercontent.com/AliZe-UBA/datasets/refs/heads/main/datasets/monumentos-img/MemoriaalosJudiosAsesinadosdeEuropa.jpg"
     },
     "cuerpo": {
       "historia_construccion": "Aprobado por el Parlamento alemán en 1999 tras años de debate público sobre cómo recordar el Holocausto en el centro de la reunificada Berlín.",
@@ -347,7 +347,7 @@
       "galeria_imagenes": [
         {
           "etiqueta": "Vista del campo de estelas",
-          "url": "monumentos-img/MemoriaalosJudiosAsesinadosdeEuropa.jpg"
+          "url": "https://raw.githubusercontent.com/AliZe-UBA/datasets/refs/heads/main/datasets/monumentos-img/MemoriaalosJudiosAsesinadosdeEuropa.jpg"
         }
       ]
     }
@@ -360,7 +360,7 @@
       "ciudad": "Ciudad del Cabo",
       "ano_inauguracion": 1999,
       "descripcion_breve": "Antigua prisión donde estuvo encarcelado Nelson Mandela, hoy símbolo del triunfo de la democracia sobre el Apartheid.",
-      "foto_principal": "monumentos-img/Apartheid.jpg"
+      "foto_principal": "https://raw.githubusercontent.com/AliZe-UBA/datasets/refs/heads/main/datasets/monumentos-img/Apartheid.jpg"
     },
     "cuerpo": {
       "historia_construccion": "Utilizada como prisión política desde el siglo XVII y de máxima seguridad durante el régimen del Apartheid. Fue clausurada como cárcel en 1996 y convertida en museo nacional.",
@@ -397,7 +397,7 @@
       "galeria_imagenes": [
         {
           "etiqueta": "Celda de Nelson Mandela",
-          "url": "monumentos-img/Apartheid.jpg"
+          "url": "https://raw.githubusercontent.com/AliZe-UBA/datasets/refs/heads/main/datasets/monumentos-img/Apartheid.jpg"
         }
       ]
     }
@@ -410,7 +410,7 @@
       "ciudad": "Santiago",
       "ano_inauguracion": 2010,
       "descripcion_breve": "Espacio dedicado a visibilizar las violaciones a los derechos humanos cometidas durante la dictadura militar chilena (1973-1990).",
-      "foto_principal": "monumentos-img/museodelamemoriachile.jpg"
+      "foto_principal": "https://raw.githubusercontent.com/AliZe-UBA/datasets/refs/heads/main/datasets/monumentos-img/museodelamemoriachile.jpg"
     },
     "cuerpo": {
       "historia_construccion": "Inaugurado en 2010 como parte de las obras del Bicentenario de Chile para promover la reflexión sobre el valor de la democracia y el respeto a la dignidad humana.",
@@ -448,7 +448,7 @@
       "galeria_imagenes": [
         {
           "etiqueta": "Fachada del Museo de la Memoria",
-          "url": "monumentos-img/museodelamemoriachile.jpg"
+          "url": "https://raw.githubusercontent.com/AliZe-UBA/datasets/refs/heads/main/datasets/monumentos-img/museodelamemoriachile.jpg"
         }
       ]
     }
@@ -461,7 +461,7 @@
       "ciudad": "Ginebra",
       "ano_inauguracion": 1909,
       "descripcion_breve": "Muro monumental que conmemora la tolerancia, la libertad de conciencia y el movimiento de la Reforma en la cuna de las instituciones humanitarias.",
-      "foto_principal": "monumentos-img/MonumentoalaReforma.webp"
+      "foto_principal": "https://raw.githubusercontent.com/AliZe-UBA/datasets/refs/heads/main/datasets/monumentos-img/MonumentoalaReforma.webp"
     },
     "cuerpo": {
       "historia_construccion": "Construido en el Parque de los Bastiones para conmemorar el 400.º aniversario del nacimiento de Juan Calvino y la fundación de la Universidad de Ginebra.",
@@ -500,7 +500,7 @@
       "galeria_imagenes": [
         {
           "etiqueta": "Muro de los Reformadores",
-          "url": "monumentos-img/MonumentoalaReforma.webp"
+          "url": "https://raw.githubusercontent.com/AliZe-UBA/datasets/refs/heads/main/datasets/monumentos-img/MonumentoalaReforma.webp"
         }
       ]
     }
